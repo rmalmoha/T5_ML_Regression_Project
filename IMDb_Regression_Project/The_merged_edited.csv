@@ -1,0 +1,1385 @@
+Movie,year,time_minute,imdb_rating,metascore,vote,gross_earning,certificates,genres,ProductionBudget,DomesticGross,WorldwideGross,Movie_year
+No Time to Die,2021,163 min,7.6,68        ,"107,163",-,PG-13,"
+Action, Adventure, Thriller            ",250000000,99509477,447809477,No Time to Die 2021
+Dune,2021,155 min,8.3,75        ,"84,636",-,PG-13,"
+Action, Adventure, Drama            ",165000000,0,116751980,Dune 2021
+Dune,1984,137 min,6.4,41        ,"142,157",$30.93M,PG-13,"
+Action, Adventure, Sci-Fi            ",165000000,0,116751980,Dune 1984
+Black Widow,2021,134 min,6.8,67        ,"246,603",-,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,183651655,376955389,Black Widow 2021
+Shang-Chi and the Legend of the Ten Rings,2021,132 min,7.9,71        ,"109,552",-,PG-13,"
+Action, Adventure, Fantasy            ",150000000,218070859,414270859,Shang-Chi and the Legend of the Ten Rings 2021
+Spectre,2015,148 min,6.8,60        ,"407,514",$200.07M,PG-13,"
+Action, Adventure, Thriller            ",300000000,200074175,879500760,Spectre  2015
+Casino Royale,2006,144 min,8.0,80        ,"613,873",$167.45M,PG-13,"
+Action, Adventure, Thriller            ",102000000,167365000,594420283,Casino Royale 2006
+Casino Royale,1967,131 min,5.1,48        ,"28,917",-,Approved,"
+Comedy            ",102000000,167365000,594420283,Casino Royale 1967
+Venom,2018,112 min,6.7,35        ,"414,787",$213.52M,PG-13,"
+Action, Adventure, Sci-Fi            ",116000000,213511408,853530899,Venom 2018
+Skyfall,2012,143 min,7.8,81        ,"658,977",$304.36M,PG-13,"
+Action, Adventure, Thriller            ",200000000,304360277,1110526981,Skyfall 2012
+Quantum of Solace,2008,106 min,6.6,58        ,"424,649",$168.37M,PG-13,"
+Action, Adventure, Thriller            ",230000000,169368427,591692078,Quantum of Solace 2008
+The Suicide Squad,2021,132 min,7.3,72        ,"224,344",-,R,"
+Action, Adventure, Comedy            ",185000000,55800219,167385739,The Suicide Squad 2021
+Titanic,1997,194 min,7.8,75        ,"1,096,676",$659.33M,PG-13,"
+Drama, Romance            ",200000000,659363944,2207986545,Titanic 1997
+Cinderella,2021,113 min,4.2,41        ,"33,916",-,PG,"
+Adventure, Comedy, Family            ",95000000,201151353,542351353,Cinderella  2021
+Cinderella,2015,105 min,6.9,67        ,"169,105",$201.15M,PG,"
+Adventure, Drama, Family            ",95000000,201151353,542351353,Cinderella  2015
+Cinderella,1950,74 min,7.3,85        ,"152,045",$85.00M,G,"
+Animation, Family, Fantasy            ",95000000,201151353,542351353,Cinderella 1950
+Blade Runner 2049,2017,164 min,8.0,81        ,"502,751",$92.05M,R,"
+Action, Drama, Mystery            ",185000000,92054159,258759329,Blade Runner 2049 2017
+The Matrix,1999,136 min,8.7,73        ,"1,767,660",$171.48M,R,"
+Action, Sci-Fi            ",65000000,173396389,465377200,The Matrix 1999
+The Wolf of Wall Street,2013,180 min,8.2,75        ,"1,271,608",$116.90M,R,"
+Biography, Comedy, Crime            ",100000000,116949183,389918903,The Wolf of Wall Street 2013
+Zodiac,2007,157 min,7.7,78        ,"499,163",$33.08M,R,"
+Crime, Drama, Mystery            ",85000000,33080084,83080084,Zodiac 2007
+Snake Eyes,2021,121 min,5.4,43        ,"24,928",-,PG-13,"
+Action, Adventure, Fantasy            ",73000000,55591409,103891409,Snake Eyes 2021
+Avengers: Endgame,2019,181 min,8.4,78        ,"947,812",$858.37M,PG-13,"
+Action, Adventure, Drama            ",400000000,858373000,2797800564,Avengers: Endgame 2019
+Tenet,2020,150 min,7.4,69        ,"427,885",$58.46M,PG-13,"
+Action, Sci-Fi, Thriller            ",205000000,57929000,361875852,Tenet 2020
+Gladiator,2000,155 min,8.5,67        ,"1,403,705",$187.71M,R,"
+Action, Adventure, Drama            ",103000000,187683805,457552323,Gladiator 2000
+Interstellar,2014,169 min,8.6,74        ,"1,624,116",$188.02M,PG-13,"
+Adventure, Drama, Sci-Fi            ",165000000,188017894,651994868,Interstellar 2014
+The Dark Knight,2008,152 min,9.0,84        ,"2,428,117",$534.86M,PG-13,"
+Action, Crime, Drama            ",185000000,533720947,998615789,The Dark Knight 2008
+Wonder Woman 1984,2020,151 min,5.4,60        ,"233,753",$46.37M,PG-13,"
+Action, Adventure, Fantasy            ",200000000,46530051,166089247,Wonder Woman 1984 2020
+1917,2019,119 min,8.3,78        ,"497,055",$159.23M,R,"
+Action, Drama, War            ",100000000,159227644,370603379,1917 2019
+The Hunger Games,2012,142 min,7.2,68        ,"874,403",$408.01M,PG-13,"
+Action, Adventure, Sci-Fi            ",80000000,408010692,677923379,The Hunger Games 2012
+Die Another Day,2002,133 min,6.1,56        ,"212,253",$160.94M,PG-13,"
+Action, Adventure, Thriller            ",142000000,160942139,431942139,Die Another Day 2002
+Inception,2010,148 min,8.8,74        ,"2,178,860",$292.58M,PG-13,"
+Action, Adventure, Sci-Fi            ",160000000,292576195,728582465,Inception 2010
+The Departed,2006,151 min,8.5,85        ,"1,244,747",$132.38M,R,"
+Crime, Drama, Thriller            ",90000000,132384315,289660619,The Departed 2006
+Spider-Man,2002,121 min,7.3,73        ,"728,050",$403.71M,PG-13,"
+Action, Adventure, Sci-Fi            ",139000000,403706375,821706375,Spider-Man 2002
+Reminiscence,2021,116 min,5.9,46        ,"36,510",-,PG-13,"
+Mystery, Romance, Sci-Fi            ",67972729,3900193,15451008,Reminiscence 2021
+Ghostbusters,1984,105 min,7.8,71        ,"374,701",$238.63M,PG,"
+Action, Comedy, Fantasy            ",144000000,128350574,229008658,Ghostbusters 1984
+Ghostbusters,2016,117 min,6.5,60        ,"213,424",$128.34M,PG-13,"
+Action, Comedy, Fantasy            ",144000000,128350574,229008658,Ghostbusters 2016
+Fight Club,1999,139 min,8.8,66        ,"1,948,261",$37.03M,R,"
+Drama            ",65000000,37030102,100820947,Fight Club 1999
+The Lord of the Rings: The Fellowship of the Ring,2001,178 min,8.8,92        ,"1,736,338",$315.54M,PG-13,"
+Action, Adventure, Drama            ",93000000,315544750,891216824,The Lord of the Rings: The Fellowship of the Ring 2001
+Django Unchained,2012,165 min,8.4,81        ,"1,432,853",$162.81M,R,"
+Drama, Western            ",100000000,162805434,449841566,Django Unchained 2012
+Gone Girl,2014,149 min,8.1,79        ,"912,613",$167.77M,R,"
+Drama, Mystery, Thriller            ",61000000,167767189,367160781,Gone Girl 2014
+Man on Fire,2004,146 min,7.7,47        ,"345,641",$77.91M,R,"
+Action, Crime, Drama            ",60000000,77906816,130968579,Man on Fire 2004
+Grown Ups,2010,102 min,6.0,30        ,"237,673",$162.00M,PG-13,"
+Comedy            ",75000000,162001186,272223000,Grown Ups  2010
+Inglourious Basterds,2009,153 min,8.3,69        ,"1,338,008",$120.54M,R,"
+Adventure, Drama, War            ",70000000,120774594,316915264,Inglourious Basterds 2009
+The Fifth Element,1997,126 min,7.7,52        ,"450,359",$63.54M,PG-13,"
+Action, Adventure, Sci-Fi            ",95000000,63570862,263898761,The Fifth Element 1997
+Star Trek,2009,127 min,7.9,82        ,"590,761",$257.73M,PG-13,"
+Action, Adventure, Sci-Fi            ",140000000,257730019,386839614,Star Trek 2009
+Kingsman: The Secret Service,2014,129 min,7.7,60        ,"618,626",$128.26M,R,"
+Action, Adventure, Comedy            ",94000000,128261724,404561724,Kingsman: The Secret Service 2014
+Suicide Squad,2016,123 min,5.9,40        ,"653,385",$325.10M,PG-13,"
+Action, Adventure, Fantasy            ",175000000,325100054,746719389,Suicide Squad 2016
+Avengers: Infinity War,2018,149 min,8.4,68        ,"930,444",$678.82M,PG-13,"
+Action, Adventure, Sci-Fi            ",300000000,678815482,2044540523,Avengers: Infinity War 2018
+Charlie's Angels,2019,118 min,4.9,52        ,"65,157",-,PG-13,"
+Action, Adventure, Comedy            ",90000000,125305545,259736090,Charlie's Angels 2019
+Charlie's Angels,2000,98 min,5.6,52        ,"182,437",$125.31M,PG-13,"
+Action, Adventure, Comedy            ",90000000,125305545,259736090,Charlie's Angels 2000
+Hall Pass,2011,105 min,5.8,45        ,"122,624",$45.06M,R,"
+Comedy, Romance            ",68000000,45060734,87173475,Hall Pass 2011
+Guardians of the Galaxy,2014,121 min,8.0,76        ,"1,097,471",$333.18M,PG-13,"
+Action, Adventure, Comedy            ",170000000,333714112,770882395,Guardians of the Galaxy 2014
+Thor: Ragnarok,2017,130 min,7.9,74        ,"650,475",$315.06M,PG-13,"
+Action, Adventure, Comedy            ",180000000,315058289,850482778,Thor: Ragnarok 2017
+Space Jam: A New Legacy,2021,115 min,4.4,36        ,"56,916",-,PG,"
+Animation, Adventure, Comedy            ",150000000,70528072,143343256,Space Jam: A New Legacy 2021
+Tomorrow Never Dies,1997,119 min,6.5,52        ,"187,809",$125.33M,PG-13,"
+Action, Adventure, Thriller            ",110000000,125304276,339504276,Tomorrow Never Dies 1997
+Captain Marvel,2019,123 min,6.8,64        ,"494,721",$426.83M,PG-13,"
+Action, Adventure, Sci-Fi            ",175000000,426829839,1129727388,Captain Marvel 2019
+Godzilla vs. Kong,2021,113 min,6.4,59        ,"176,039",-,PG-13,"
+Action, Sci-Fi, Thriller            ",155000000,100563133,467826620,Godzilla vs. Kong 2021
+Jurassic Park,1993,127 min,8.1,68        ,"912,090",$402.45M,PG-13,"
+Action, Adventure, Sci-Fi            ",63000000,402523348,1045573035,Jurassic Park 1993
+The Girl with the Dragon Tattoo,2011,158 min,7.8,71        ,"441,672",$102.52M,R,"
+Crime, Drama, Mystery            ",90000000,102515793,239373970,The Girl with the Dragon Tattoo 2011
+The Matrix Reloaded,2003,138 min,7.2,62        ,"544,755",$281.49M,R,"
+Action, Sci-Fi            ",150000000,281553689,738576929,The Matrix Reloaded 2003
+The Holiday,2006,136 min,6.9,52        ,"262,209",$63.22M,PG-13,"
+Comedy, Romance            ",85000000,63280000,205190324,The Holiday 2006
+Cats,2019,110 min,2.7,32        ,"46,902",-,PG,"
+Comedy, Drama, Family            ",100000000,27166770,75486351,Cats 2019
+The Dark Knight Rises,2012,164 min,8.4,78        ,"1,583,190",$448.14M,PG-13,"
+Action            ",230000000,448139099,1082228107,The Dark Knight Rises 2012
+Army of the Dead,2021,148 min,5.8,57        ,"141,681",$1.00M,R,"
+Action, Crime, Horror            ",90000000,0,0,Army of the Dead 2021
+Spider-Man: Homecoming,2017,133 min,7.4,73        ,"558,213",$334.20M,PG-13,"
+Action, Adventure, Sci-Fi            ",175000000,334201140,880166350,Spider-Man: Homecoming 2017
+Eyes Wide Shut,1999,159 min,7.4,68        ,"319,208",$55.69M,R,"
+Drama, Mystery, Thriller            ",65000000,55691208,104264617,Eyes Wide Shut 1999
+Ready Player One,2018,140 min,7.4,64        ,"399,254",$137.69M,PG-13,"
+Action, Adventure, Sci-Fi            ",150000000,137690172,579055653,Ready Player One 2018
+Spider-Man 3,2007,139 min,6.2,59        ,"526,291",$336.53M,PG-13,"
+Action, Adventure, Sci-Fi            ",258000000,336530303,894860230,Spider-Man 3 2007
+Black Panther,2018,134 min,7.3,88        ,"680,011",$700.06M,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,700059566,1336494321,Black Panther 2018
+Saving Private Ryan,1998,169 min,8.6,91        ,"1,296,408",$216.54M,R,"
+Drama, War            ",65000000,216335085,485035085,Saving Private Ryan 1998
+Green Lantern,2011,114 min,5.5,39        ,"276,068",$116.60M,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,116601172,219535492,Green Lantern 2011
+The Amazing Spider-Man,2012,136 min,6.9,66        ,"583,450",$262.03M,PG-13,"
+Action, Adventure, Fantasy            ",220000000,262030663,757890267,The Amazing Spider-Man 2012
+Harry Potter and the Goblet of Fire,2005,157 min,7.7,81        ,"576,171",$290.01M,PG-13,"
+Adventure, Family, Fantasy            ",150000000,290201752,891320084,Harry Potter and the Goblet of Fire 2005
+Shutter Island,2010,138 min,8.2,63        ,"1,201,140",$128.01M,R,"
+Mystery, Thriller            ",80000000,128012934,299461782,Shutter Island 2010
+Avatar,2009,162 min,7.8,83        ,"1,158,897",$760.51M,PG-13,"
+Action, Adventure, Fantasy            ",237000000,760507625,2845899541,Avatar 2009
+The Mummy,1999,124 min,7.0,48        ,"408,192",$155.25M,PG-13,"
+Action, Adventure, Fantasy            ",195000000,80101125,409953905,The Mummy 1999
+The Mummy,2017,110 min,5.4,34        ,"179,737",$80.10M,PG-13,"
+Action, Adventure, Fantasy            ",195000000,80101125,409953905,The Mummy 2017
+The Mummy,1932,73 min,7.1,-,"25,217",-,Approved,"
+Fantasy, Horror            ",195000000,80101125,409953905,The Mummy 1932
+Tomb Raider,2018,119 min,6.3,48        ,"203,314",$58.25M,PG-13,"
+Action, Adventure, Fantasy            ",90000000,58250803,273477501,Tomb Raider 2018
+Jumper,2008,88 min,6.1,35        ,"295,831",$80.17M,PG-13,"
+Action, Adventure, Sci-Fi            ",82500000,80172128,222640812,Jumper 2008
+Deadpool 2,2018,119 min,7.7,66        ,"520,657",$324.59M,R,"
+Action, Adventure, Comedy            ",110000000,324591735,786362370,Deadpool 2 2018
+The Great Gatsby,2013,143 min,7.2,55        ,"505,139",$144.84M,PG-13,"
+Drama, Romance            ",190000000,144840419,353640419,The Great Gatsby 2013
+The Green Mile,1999,189 min,8.6,61        ,"1,207,930",$136.80M,R,"
+Crime, Drama, Fantasy            ",60000000,136801374,290701374,The Green Mile 1999
+Man of Steel,2013,143 min,7.0,55        ,"731,859",$291.05M,PG-13,"
+Action, Adventure, Sci-Fi            ",225000000,291045518,667999518,Man of Steel 2013
+Live by Night,2016,129 min,6.4,49        ,"55,020",$10.38M,R,"
+Action, Crime, Drama            ",65000000,10378555,21774432,Live by Night 2016
+Prometheus,2012,124 min,7.0,64        ,"585,485",$126.48M,R,"
+Adventure, Mystery, Sci-Fi            ",125000000,126477084,402448265,Prometheus  2012
+Mars Attacks!,1996,106 min,6.3,52        ,"218,401",$37.77M,PG-13,"
+Comedy, Sci-Fi            ",80000000,37771017,101371017,Mars Attacks! 1996
+Practical Magic,1998,104 min,6.3,46        ,"76,852",$46.68M,PG-13,"
+Comedy, Drama, Fantasy            ",60000000,46850558,68336997,Practical Magic 1998
+Chaos Walking,2021,109 min,5.7,38        ,"33,696",-,PG-13,"
+Action, Adventure, Fantasy            ",100000000,13287908,26943020,Chaos Walking 2021
+Troy,2004,163 min,7.3,56        ,"507,916",$133.38M,R,"
+Drama, History            ",150000000,133298577,483152040,Troy 2004
+Jumanji: The Next Level,2019,123 min,6.7,58        ,"216,421",$316.83M,PG-13,"
+Action, Adventure, Comedy            ",125000000,316831246,798332900,Jumanji: The Next Level 2019
+The Greatest Showman,2017,105 min,7.6,48        ,"257,190",$174.34M,PG,"
+Biography, Drama, Musical            ",84000000,174340174,434104158,The Greatest Showman 2017
+The Haunted Mansion,2003,88 min,5.1,34        ,"46,585",$75.85M,PG,"
+Comedy, Family, Fantasy            ",90000000,75817994,155750628,The Haunted Mansion 2003
+Sleepy Hollow,1999,105 min,7.3,65        ,"344,485",$101.07M,R,"
+Fantasy, Horror, Mystery            ",70000000,101068340,207068340,Sleepy Hollow 1999
+Harry Potter and the Chamber of Secrets,2002,161 min,7.4,63        ,"584,278",$261.99M,PG,"
+Adventure, Family, Fantasy            ",100000000,262233381,876508805,Harry Potter and the Chamber of Secrets 2002
+The Revenant,2015,156 min,8.0,76        ,"745,275",$183.64M,R,"
+Action, Adventure, Drama            ",135000000,183637894,532938302,The Revenant 2015
+Coraline,2009,100 min,7.7,80        ,"209,539",$75.29M,PG,"
+Animation, Drama, Family            ",60000000,75286229,126037057,Coraline 2009
+Van Helsing,2004,131 min,6.1,35        ,"254,909",$120.18M,PG-13,"
+Action, Adventure, Fantasy            ",170000000,120150546,300150546,Van Helsing 2004
+Logan,2017,137 min,8.1,77        ,"691,280",$226.28M,R,"
+Action, Drama, Sci-Fi            ",127000000,226277068,614202315,Logan 2017
+Men in Black,1997,98 min,7.3,71        ,"537,331",$250.69M,PG-13,"
+Action, Adventure, Comedy            ",90000000,250690539,587790539,Men in Black 1997
+The Lord of the Rings: The Return of the King,2003,201 min,8.9,94        ,"1,715,054",$377.85M,PG-13,"
+Action, Adventure, Drama            ",94000000,377845905,1120214046,The Lord of the Rings: The Return of the King 2003
+Harry Potter and the Prisoner of Azkaban,2004,142 min,7.9,82        ,"582,351",$249.36M,PG,"
+Adventure, Family, Fantasy            ",130000000,249757726,789961033,Harry Potter and the Prisoner of Azkaban 2004
+The Avengers,2012,143 min,8.0,69        ,"1,311,357",$623.28M,PG-13,"
+Action, Adventure, Sci-Fi            ",225000000,623357910,1515100211,The Avengers 2012
+The Irishman,2019,209 min,7.8,94        ,"353,238",$7.00M,R,"
+Biography, Crime, Drama            ",159000000,0,910234,The Irishman 2019
+Step Brothers,2008,98 min,6.9,51        ,"279,242",$100.47M,R,"
+Comedy            ",65000000,100468793,128107642,Step Brothers 2008
+Charlie and the Chocolate Factory,2005,115 min,6.6,72        ,"448,682",$206.46M,PG,"
+Adventure, Comedy, Family            ",150000000,206459076,475825484,Charlie and the Chocolate Factory 2005
+Dunkirk,2017,106 min,7.8,94        ,"598,516",$188.37M,PG-13,"
+Action, Drama, History            ",150000000,190068280,519452014,Dunkirk 2017
+Aquaman,2018,143 min,6.9,55        ,"417,964",$335.06M,PG-13,"
+Action, Adventure, Fantasy            ",160000000,335061807,1143758700,Aquaman 2018
+The Boss Baby: Family Business,2021,107 min,5.9,40        ,"11,860",-,PG,"
+Animation, Adventure, Comedy            ",82000000,57290255,114583255,The Boss Baby: Family Business 2021
+Doctor Strange,2016,115 min,7.5,72        ,"647,685",$232.64M,PG-13,"
+Action, Adventure, Fantasy            ",165000000,232641920,676354481,Doctor Strange 2016
+Avengers: Age of Ultron,2015,141 min,7.3,66        ,"794,217",$459.01M,PG-13,"
+Action, Adventure, Sci-Fi            ",365000000,459005868,1395316979,Avengers: Age of Ultron 2015
+Maleficent,2014,97 min,7.0,56        ,"358,076",$241.41M,PG,"
+Action, Adventure, Family            ",180000000,241407328,758536735,Maleficent 2014
+Cars,2006,117 min,7.1,73        ,"388,949",$244.08M,G,"
+Animation, Adventure, Comedy            ",70000000,244082982,461630558,Cars 2006
+Iron Man,2008,126 min,7.9,79        ,"986,925",$318.41M,PG-13,"
+Action, Adventure, Sci-Fi            ",186000000,318604126,585171547,Iron Man 2008
+The Village,2004,108 min,6.5,44        ,"251,683",$114.20M,PG-13,"
+Drama, Mystery, Thriller            ",71682975,114197520,257641634,The Village 2004
+300,2006,117 min,7.6,52        ,"758,691",$210.61M,R,"
+Action, Drama            ",60000000,210614939,454161935,300 2006
+Thor,2011,115 min,7.0,57        ,"786,136",$181.03M,PG-13,"
+Action, Adventure, Fantasy            ",150000000,181030624,449326618,Thor 2011
+Transformers,2007,144 min,7.0,61        ,"614,130",$319.25M,PG-13,"
+Action, Adventure, Sci-Fi            ",151000000,319246193,708272592,Transformers 2007
+Pearl Harbor,2001,183 min,6.2,44        ,"320,923",$198.54M,PG-13,"
+Action, Drama, History            ",151500000,198539855,449239853,Pearl Harbor 2001
+The Amazing Spider-Man 2,2014,142 min,6.6,53        ,"437,312",$202.85M,PG-13,"
+Action, Adventure, Fantasy            ",200000000,202853933,708996336,The Amazing Spider-Man 2 2014
+Coco,2017,105 min,8.4,81        ,"435,122",$209.73M,PG,"
+Animation, Adventure, Comedy            ",175000000,210460015,797666425,Coco  2017
+Alita: Battle Angel,2019,122 min,7.3,53        ,"247,935",$85.71M,PG-13,"
+Action, Adventure, Sci-Fi            ",170000000,85838210,401900040,Alita: Battle Angel 2019
+Captain America: The First Avenger,2011,124 min,6.9,66        ,"785,167",$176.65M,PG-13,"
+Action, Adventure, Sci-Fi            ",140000000,176654505,370569776,Captain America: The First Avenger 2011
+Spider-Man 2,2004,127 min,7.3,83        ,"578,083",$373.59M,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,373524485,794697557,Spider-Man 2 2004
+The Martian,2015,144 min,8.0,80        ,"797,768",$228.43M,PG-13,"
+Adventure, Drama, Sci-Fi            ",108000000,228433663,655111538,The Martian 2015
+Wonder Woman,2017,141 min,7.4,76        ,"613,051",$412.56M,PG-13,"
+Action, Adventure, Fantasy            ",150000000,412563408,818058221,Wonder Woman 2017
+Jumanji,1995,104 min,7.0,39        ,"324,363",$100.48M,PG,"
+Adventure, Comedy, Family            ",65000000,100458310,262758310,Jumanji 1995
+Watchmen,2009,162 min,7.6,56        ,"527,290",$107.51M,R,"
+Action, Drama, Mystery            ",138000000,107509799,186976250,Watchmen 2009
+Gemini Man,2019,117 min,5.7,38        ,"103,621",$20.55M,PG-13,"
+Action, Drama, Sci-Fi            ",140000000,48546770,166623705,Gemini Man 2019
+The Hobbit: An Unexpected Journey,2012,169 min,7.8,58        ,"782,306",$303.00M,PG-13,"
+Adventure, Fantasy            ",200000000,303003568,1014938545,The Hobbit: An Unexpected Journey 2012
+Edge of Tomorrow,2014,113 min,7.9,71        ,"633,482",$100.21M,PG-13,"
+Action, Adventure, Sci-Fi            ",178000000,100206256,367028980,Edge of Tomorrow 2014
+Stardust,2007,127 min,7.6,66        ,"263,529",$38.63M,PG-13,"
+Adventure, Family, Fantasy            ",70000000,38634938,137022245,Stardust 2007
+Dark Shadows,2012,113 min,6.2,55        ,"255,631",$79.73M,PG-13,"
+Comedy, Fantasy, Horror            ",150000000,79727149,238202668,Dark Shadows 2012
+The Matrix Revolutions,2003,129 min,6.8,47        ,"470,437",$139.31M,R,"
+Action, Sci-Fi            ",150000000,139270910,427300260,The Matrix Revolutions 2003
+Cast Away,2000,143 min,7.8,73        ,"553,902",$233.63M,PG-13,"
+Adventure, Drama, Romance            ",85000000,233632142,427230516,Cast Away 2000
+Batman Begins,2005,140 min,8.2,70        ,"1,364,155",$206.85M,PG-13,"
+Action, Adventure            ",150000000,205343774,358858124,Batman Begins 2005
+Hotel Transylvania,2012,91 min,7.1,47        ,"237,431",$148.31M,PG,"
+Animation, Adventure, Comedy            ",85000000,148313048,378659142,Hotel Transylvania 2012
+The Lovely Bones,2009,135 min,6.7,42        ,"164,124",$43.82M,PG-13,"
+Drama, Fantasy, Thriller            ",95000000,44114232,94894448,The Lovely Bones 2009
+Cloud Atlas,2012,172 min,7.4,55        ,"352,676",$27.11M,R,"
+Action, Drama, Mystery            ",102000000,27108272,130673154,Cloud Atlas 2012
+Monster House,2006,91 min,6.6,68        ,"109,100",$73.66M,PG,"
+Animation, Comedy, Family            ",75000000,73661010,141267370,Monster House 2006
+Black Hawk Down,2001,144 min,7.7,74        ,"378,135",$108.64M,R,"
+Drama, History, War            ",95000000,108638745,159691085,Black Hawk Down 2001
+Extraction,2020,116 min,6.7,56        ,"180,677",-,R,"
+Action, Thriller            ",65000000,0,0,Extraction 2020
+Almost Famous,2000,122 min,7.9,90        ,"265,583",$32.53M,R,"
+Adventure, Comedy, Drama            ",60000000,32522352,47371191,Almost Famous 2000
+Braveheart,1995,178 min,8.3,68        ,"990,832",$75.60M,R,"
+Biography, Drama, History            ",72000000,75545647,209045244,Braveheart 1995
+Moana,2016,107 min,7.6,81        ,"298,539",$248.76M,PG,"
+Animation, Adventure, Comedy            ",150000000,248757044,634965560,Moana  2016
+Kingsman: The Golden Circle,2017,141 min,6.7,44        ,"293,536",$100.23M,R,"
+Action, Adventure, Comedy            ",104000000,100234838,408803696,Kingsman: The Golden Circle 2017
+The Lion King,1994,88 min,8.5,88        ,"986,877",$422.78M,G,"
+Animation, Adventure, Drama            ",260000000,543638043,1654367425,The Lion King 1994
+The Lion King,2019,118 min,6.8,55        ,"227,257",$543.64M,PG,"
+Animation, Adventure, Drama            ",260000000,543638043,1654367425,The Lion King 2019
+Jack Reacher,2012,130 min,7.0,50        ,"321,885",$80.07M,PG-13,"
+Action, Thriller            ",60000000,80070736,217370736,Jack Reacher 2012
+The Hateful Eight,2015,168 min,7.8,68        ,"553,129",$54.12M,R,"
+Crime, Drama, Mystery            ",62000000,54117416,152616451,The Hateful Eight 2015
+Harry Potter and the Order of the Phoenix,2007,138 min,7.5,71        ,"536,991",$292.00M,PG-13,"
+Action, Adventure, Family            ",150000000,292137260,940743940,Harry Potter and the Order of the Phoenix 2007
+Jurassic World,2015,124 min,7.0,59        ,"602,689",$652.27M,PG-13,"
+Action, Adventure, Sci-Fi            ",215000000,652306625,1669979967,Jurassic World 2015
+Knight and Day,2010,109 min,6.3,46        ,"186,687",$76.42M,PG-13,"
+Action, Adventure, Comedy            ",117000000,76423035,258751370,Knight and Day 2010
+Justice League,2017,120 min,6.1,45        ,"426,523",$229.02M,PG-13,"
+Action, Adventure, Fantasy            ",300000000,229024295,655945209,Justice League 2017
+The Truman Show,1998,103 min,8.1,90        ,"993,061",$125.62M,PG,"
+Comedy, Drama            ",60000000,125618201,264118201,The Truman Show 1998
+Maleficent: Mistress of Evil,2019,119 min,6.6,43        ,"94,900",$113.93M,PG,"
+Adventure, Family, Fantasy            ",185000000,113929605,489346495,Maleficent: Mistress of Evil 2019
+Gods of Egypt,2016,127 min,5.4,25        ,"111,599",$31.15M,PG-13,"
+Action, Adventure, Fantasy            ",140000000,31153464,138836756,Gods of Egypt 2016
+Wild Wild West,1999,106 min,4.9,38        ,"156,694",$113.81M,PG-13,"
+Action, Comedy, Sci-Fi            ",175000000,113805681,221229335,Wild Wild West 1999
+Independence Day,1996,145 min,7.0,59        ,"550,360",$306.17M,PG-13,"
+Action, Adventure, Sci-Fi            ",75000000,306169255,817400878,Independence Day 1996
+Jumanji: Welcome to the Jungle,2017,119 min,6.9,58        ,"346,282",$404.52M,PG-13,"
+Action, Adventure, Comedy            ",90000000,404508916,961613199,Jumanji: Welcome to the Jungle 2017
+X-Men,2000,104 min,7.4,64        ,"589,258",$157.30M,PG-13,"
+Action, Adventure, Sci-Fi            ",75000000,157299717,296872367,X-Men 2000
+Signs,2002,106 min,6.7,59        ,"349,097",$227.97M,PG-13,"
+Drama, Mystery, Sci-Fi            ",70702619,227969295,408250578,Signs 2002
+Scooby-Doo,2002,86 min,5.2,35        ,"105,531",$153.29M,PG,"
+Adventure, Comedy, Family            ",84000000,153294164,276294164,Scooby-Doo 2002
+Fury,2014,134 min,7.6,64        ,"451,965",$85.82M,R,"
+Action, Drama, War            ",80000000,85817906,210315681,Fury 2014
+Batman v Superman: Dawn of Justice,2016,152 min,6.4,44        ,"665,849",$330.36M,PG-13,"
+Action, Adventure, Sci-Fi            ",263000000,330360194,872395091,Batman v Superman: Dawn of Justice 2016
+The Lord of the Rings: The Two Towers,2002,179 min,8.7,87        ,"1,550,489",$342.55M,PG-13,"
+Action, Adventure, Drama            ",94000000,342548984,919148764,The Lord of the Rings: The Two Towers 2002
+The Magnificent Seven,2016,132 min,6.9,54        ,"199,943",$93.43M,PG-13,"
+Action, Adventure, Western            ",90000000,93432655,162136124,The Magnificent Seven 2016
+The Magnificent Seven,1960,128 min,7.7,74        ,"91,594",$4.91M,Approved,"
+Action, Adventure, Western            ",90000000,93432655,162136124,The Magnificent Seven 1960
+Oblivion,2013,124 min,7.0,54        ,"502,671",$89.02M,PG-13,"
+Action, Adventure, Sci-Fi            ",120000000,89107235,287916633,Oblivion  2013
+Grown Ups 2,2013,101 min,5.4,19        ,"146,810",$133.67M,PG-13,"
+Comedy            ",80000000,133668525,247023808,Grown Ups 2 2013
+Fantastic Beasts: The Crimes of Grindelwald,2018,134 min,6.5,52        ,"239,767",$159.56M,PG-13,"
+Adventure, Family, Fantasy            ",200000000,159555901,651280475,Fantastic Beasts: The Crimes of Grindelwald 2018
+Harry Potter and the Half-Blood Prince,2009,153 min,7.6,78        ,"501,361",$301.96M,PG,"
+Action, Adventure, Family            ",250000000,302089278,930673167,Harry Potter and the Half-Blood Prince 2009
+The Hunger Games: Catching Fire,2013,146 min,7.5,76        ,"634,463",$424.67M,PG-13,"
+Action, Drama, Mystery            ",130000000,424668047,864868047,The Hunger Games: Catching Fire 2013
+Monster Hunter,2020,103 min,5.3,47        ,"47,780",-,PG-13,"
+Action, Adventure, Fantasy            ",60000000,15104790,44400541,Monster Hunter  2020
+Captain America: Civil War,2016,147 min,7.8,75        ,"711,882",$408.08M,PG-13,"
+Action, Adventure, Sci-Fi            ",250000000,408084349,1151918521,Captain America: Civil War 2016
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,129 min,6.5,39        ,"281,907",$172.56M,PG-13,"
+Action, Adventure, Fantasy            ",230000000,172558876,794861794,Pirates of the Caribbean: Dead Men Tell No Tales 2017
+Beauty and the Beast,2017,129 min,7.1,65        ,"289,280",$504.01M,PG,"
+Adventure, Family, Fantasy            ",160000000,504014165,1255080655,Beauty and the Beast  2017
+Beauty and the Beast,1991,84 min,8.0,95        ,"429,084",$218.97M,G,"
+Animation, Family, Fantasy            ",160000000,504014165,1255080655,Beauty and the Beast 1991
+Jurassic World: Fallen Kingdom,2018,128 min,6.2,51        ,"284,217",$417.72M,PG-13,"
+Action, Adventure, Sci-Fi            ",170000000,417719760,1308334005,Jurassic World: Fallen Kingdom 2018
+The Haunting,1999,113 min,5.0,42        ,"74,101",$91.41M,PG-13,"
+Fantasy, Horror, Mystery            ",80000000,91188905,180188905,The Haunting 1999
+Alien: Covenant,2017,122 min,6.4,65        ,"266,419",$74.26M,R,"
+Horror, Sci-Fi, Thriller            ",97000000,74262031,238521247,Alien: Covenant 2017
+Safe House,2012,115 min,6.7,52        ,"215,691",$126.37M,R,"
+Action, Thriller            ",85000000,126181630,207884401,Safe House 2012
+Terminator 2: Judgment Day,1991,137 min,8.5,75        ,"1,036,525",$204.84M,R,"
+Action, Sci-Fi            ",100000000,203464105,515390883,Terminator 2: Judgment Day 1991
+Red Sparrow,2018,140 min,6.6,53        ,"176,232",$46.87M,R,"
+Action, Drama, Thriller            ",69000000,46874505,145951861,Red Sparrow 2018
+Life,2017,104 min,6.6,54        ,"217,609",$30.23M,R,"
+Horror, Sci-Fi, Thriller            ",75000000,64062587,73521587,Life  2017
+Life,1999,108 min,6.8,63        ,"48,189",$63.84M,R,"
+Comedy, Crime, Drama            ",75000000,64062587,73521587,Life  1999
+Body of Lies,2008,128 min,7.1,57        ,"220,565",$39.39M,R,"
+Action, Drama, Thriller            ",67500000,39394666,118556530,Body of Lies 2008
+X-Men Origins: Wolverine,2009,107 min,6.6,40        ,"483,126",$179.88M,PG-13,"
+Action, Sci-Fi            ",150000000,179883157,374825760,X-Men Origins: Wolverine 2009
+The Fast and the Furious: Tokyo Drift,2006,104 min,6.0,45        ,"258,007",$62.51M,PG-13,"
+Action, Crime, Thriller            ",85000000,62615510,157794205,The Fast and the Furious: Tokyo Drift 2006
+Ant-Man,2015,117 min,7.3,64        ,"609,887",$180.20M,PG-13,"
+Action, Adventure, Comedy            ",130000000,180202163,518858449,Ant-Man 2015
+Rogue One: A Star Wars Story,2016,133 min,7.8,65        ,"582,136",$532.18M,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,532177324,1055135598,Rogue One: A Star Wars Story 2016
+Now You See Me,2013,115 min,7.2,50        ,"622,405",$117.72M,PG-13,"
+Crime, Mystery, Thriller            ",75000000,117723989,342769200,Now You See Me  2013
+A Beautiful Mind,2001,135 min,8.2,72        ,"883,631",$170.74M,PG-13,"
+Biography, Drama            ",78000000,170708996,317668058,A Beautiful Mind 2001
+Fantastic Beasts and Where to Find Them,2016,132 min,7.3,66        ,"429,712",$234.04M,PG-13,"
+Adventure, Family, Fantasy            ",180000000,234037575,811724385,Fantastic Beasts and Where to Find Them 2016
+Mulan,2020,115 min,5.7,66        ,"136,561",-,PG-13,"
+Action, Adventure, Drama            ",200000000,0,69965374,Mulan 2020
+Mulan,1998,88 min,7.6,71        ,"269,532",$120.62M,G,"
+Animation, Adventure, Comedy            ",200000000,0,69965374,Mulan 1998
+Lara Croft: Tomb Raider,2001,100 min,5.8,33        ,"204,275",$131.14M,PG-13,"
+Action, Adventure, Fantasy            ",94000000,131144183,273330185,Lara Croft: Tomb Raider 2001
+The New Mutants,2020,94 min,5.3,43        ,"67,153",-,PG-13,"
+Action, Horror, Mystery            ",67000000,23855569,44612280,The New Mutants 2020
+Aladdin,2019,128 min,6.9,53        ,"245,697",$355.56M,PG,"
+Adventure, Comedy, Family            ",182000000,355559216,1046649706,Aladdin 2019
+Aladdin,1992,90 min,8.0,86        ,"387,875",$217.35M,G,"
+Animation, Adventure, Comedy            ",182000000,355559216,1046649706,Aladdin 1992
+Fast & Furious Presents: Hobbs & Shaw,2019,137 min,6.4,60        ,"194,928",$173.96M,PG-13,"
+Action, Adventure, Thriller            ",200000000,173956935,760381706,Fast & Furious Presents: Hobbs & Shaw 2019
+Shazam!,2019,132 min,7.0,71        ,"296,639",$140.37M,PG-13,"
+Action, Adventure, Comedy            ",85000000,140371656,363664533,Shazam! 2019
+Road to Perdition,2002,117 min,7.7,72        ,"257,654",$104.45M,R,"
+Crime, Drama, Thriller            ",80000000,104054514,183354514,Road to Perdition 2002
+Batman & Robin,1997,125 min,3.8,28        ,"241,589",$107.33M,PG-13,"
+Action, Sci-Fi            ",125000000,107325195,238317814,Batman & Robin 1997
+Hairspray,2007,117 min,6.7,81        ,"124,389",$118.87M,PG,"
+Comedy, Drama, Musical            ",75000000,118871849,202822861,Hairspray 2007
+Hairspray,1988,92 min,7.0,77        ,"20,887",$6.67M,PG,"
+Comedy, Drama, Family            ",75000000,118871849,202822861,Hairspray 1988
+Armageddon,1998,151 min,6.7,42        ,"408,798",$201.57M,PG-13,"
+Action, Adventure, Sci-Fi            ",140000000,201578182,554600000,Armageddon 1998
+Starship Troopers,1997,129 min,7.2,51        ,"280,322",$54.81M,R,"
+Action, Adventure, Sci-Fi            ",100000000,54768952,121100000,Starship Troopers 1997
+Frozen,2013,102 min,7.4,75        ,"593,435",$400.74M,PG,"
+Animation, Adventure, Comedy            ",150000000,400953009,1265778169,Frozen  2013
+The Terminal,2004,128 min,7.4,55        ,"429,356",$77.87M,PG-13,"
+Comedy, Drama, Romance            ",75000000,77073959,218673959,The Terminal 2004
+Thor: The Dark World,2013,112 min,6.8,54        ,"630,531",$206.36M,PG-13,"
+Action, Adventure, Fantasy            ",150000000,206362140,644602516,Thor: The Dark World 2013
+Total Recall,1990,113 min,7.5,57        ,"315,378",$119.39M,R,"
+Action, Sci-Fi, Thriller            ",125000000,58877969,211856088,Total Recall 1990
+Total Recall,2012,118 min,6.2,43        ,"246,903",$58.88M,PG-13,"
+Action, Adventure, Sci-Fi            ",125000000,58877969,211856088,Total Recall  2012
+American Gangster,2007,157 min,7.8,76        ,"407,366",$130.16M,R,"
+Biography, Crime, Drama            ",100000000,130164645,267985456,American Gangster 2007
+Dolittle,2020,101 min,5.6,26        ,"55,368",$77.05M,PG,"
+Adventure, Comedy, Family            ",175000000,77047065,251409960,Dolittle 2020
+Divergent,2014,139 min,6.6,48        ,"440,216",$150.95M,PG-13,"
+Action, Adventure, Mystery            ",85000000,150947895,276014965,Divergent 2014
+Planet of the Apes,2001,119 min,5.7,50        ,"214,995",$180.01M,PG-13,"
+Action, Adventure, Sci-Fi            ",100000000,180011740,362211740,Planet of the Apes 2001
+Planet of the Apes,1968,112 min,8.0,79        ,"172,678",$33.40M,G,"
+Adventure, Sci-Fi            ",100000000,180011740,362211740,Planet of the Apes 1968
+World War Z,2013,116 min,7.0,63        ,"627,733",$202.36M,PG-13,"
+Action, Adventure, Horror            ",190000000,202706711,531861650,World War Z 2013
+Iron Man 3,2013,130 min,7.1,62        ,"793,630",$409.01M,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,408992272,1215392272,Iron Man 3 2013
+Munich,2005,164 min,7.5,74        ,"219,772",$47.40M,R,"
+Action, Drama, History            ",75000000,47379090,131492772,Munich 2005
+Terminator: Dark Fate,2019,128 min,6.2,54        ,"163,582",$62.25M,R,"
+Action, Adventure, Sci-Fi            ",185000000,62253077,250372367,Terminator: Dark Fate 2019
+Alice in Wonderland,2010,108 min,6.4,53        ,"396,922",$334.19M,PG,"
+Adventure, Family, Fantasy            ",200000000,334191110,1025491110,Alice in Wonderland  2010
+Alice in Wonderland,1951,75 min,7.4,68        ,"134,656",$1.07M,G,"
+Animation, Adventure, Comedy            ",200000000,334191110,1025491110,Alice in Wonderland 1951
+Zootopia,2016,108 min,8.0,78        ,"460,223",$341.27M,PG,"
+Animation, Adventure, Comedy            ",150000000,341268248,1004629935,Zootopia 2016
+Ghost in the Shell,2017,107 min,6.3,52        ,"206,127",$40.56M,PG-13,"
+Action, Crime, Drama            ",110000000,40563557,167910690,Ghost in the Shell 2017
+Baywatch,2017,116 min,5.5,37        ,"174,777",$58.06M,R,"
+Action, Comedy, Crime            ",60000000,58060186,175863783,Baywatch 2017
+Point Break,1991,122 min,7.3,58        ,"169,668",$43.22M,R,"
+Action, Crime, Thriller            ",100000000,28782481,126704591,Point Break 1991
+Point Break,2015,114 min,5.3,34        ,"60,699",$28.78M,PG-13,"
+Action, Adventure, Crime            ",100000000,28782481,126704591,Point Break 2015
+Ocean's Eleven,2001,116 min,7.7,74        ,"540,656",$183.42M,PG-13,"
+Crime, Thriller            ",85000000,183417150,450728529,Ocean's Eleven 2001
+Ratatouille,2007,111 min,8.0,96        ,"671,707",$206.45M,G,"
+Animation, Adventure, Comedy            ",150000000,206445654,626549695,Ratatouille 2007
+Underwater,2020,95 min,5.8,48        ,"72,577",-,PG-13,"
+Adventure, Horror, Sci-Fi            ",65000000,17291078,39194264,Underwater 2020
+"Monsters, Inc.",2001,92 min,8.1,79        ,"853,270",$289.92M,G,"
+Animation, Adventure, Comedy            ",115000000,290149425,560483719,"Monsters, Inc. 2001"
+Kingdom of Heaven,2005,144 min,7.2,63        ,"276,064",$47.40M,R,"
+Action, Adventure, Drama            ",110000000,47398413,218674938,Kingdom of Heaven 2005
+G.I. Joe: The Rise of Cobra,2009,118 min,5.8,32        ,"204,827",$152.27M,PG-13,"
+Action, Adventure, Sci-Fi            ",175000000,150201498,302469017,G.I. Joe: The Rise of Cobra 2009
+Event Horizon,1997,96 min,6.7,35        ,"168,940",$26.67M,R,"
+Horror, Sci-Fi, Thriller            ",60000000,26673242,26673953,Event Horizon 1997
+The Croods: A New Age,2020,95 min,7.0,56        ,"33,732",$58.57M,PG,"
+Animation, Adventure, Comedy            ",65000000,58568815,214964716,The Croods: A New Age 2020
+Captain America: The Winter Soldier,2014,136 min,7.7,70        ,"780,198",$259.77M,PG-13,"
+Action, Adventure, Sci-Fi            ",170000000,259746958,714401889,Captain America: The Winter Soldier 2014
+The Curious Case of Benjamin Button,2008,166 min,7.8,70        ,"615,824",$127.51M,PG-13,"
+Drama, Fantasy, Romance            ",160000000,127509326,329631958,The Curious Case of Benjamin Button 2008
+Ad Astra,2019,123 min,6.5,80        ,"215,179",$35.40M,PG-13,"
+Adventure, Drama, Mystery            ",80000000,50188370,135432019,Ad Astra 2019
+Tropic Thunder,2008,107 min,7.0,71        ,"395,460",$110.52M,R,"
+Action, Comedy, War            ",90000000,110515313,191145256,Tropic Thunder 2008
+Sherlock Holmes,2009,128 min,7.6,57        ,"604,388",$209.03M,PG-13,"
+Action, Adventure, Mystery            ",90000000,209028679,498438212,Sherlock Holmes 2009
+Star Trek Beyond,2016,122 min,7.0,68        ,"237,262",$158.85M,PG-13,"
+Action, Adventure, Sci-Fi            ",185000000,158848340,335673708,Star Trek Beyond 2016
+Hook,1991,142 min,6.8,52        ,"243,444",$119.65M,PG,"
+Adventure, Comedy, Family            ",70000000,119654823,300854823,Hook 1991
+Batman Forever,1995,121 min,5.4,51        ,"241,868",$184.03M,PG-13,"
+Action, Adventure            ",100000000,184031112,336529144,Batman Forever 1995
+Inside Out,2015,95 min,8.1,94        ,"656,250",$356.46M,PG,"
+Animation, Adventure, Comedy            ",175000000,356461711,853641066,Inside Out  2015
+The Hobbit: The Desolation of Smaug,2013,161 min,7.8,66        ,"623,380",$258.37M,PG-13,"
+Adventure, Fantasy            ",250000000,258241522,959358436,The Hobbit: The Desolation of Smaug 2013
+The Core,2003,135 min,5.5,48        ,"96,461",$31.19M,PG-13,"
+Action, Adventure, Sci-Fi            ",85000000,31111260,74120792,The Core 2003
+War of the Worlds,2005,116 min,6.5,73        ,"430,009",$234.28M,PG-13,"
+Action, Adventure, Sci-Fi            ",132000000,234280354,606836535,War of the Worlds 2005
+Iron Man 2,2010,124 min,7.0,57        ,"760,747",$312.43M,PG-13,"
+Action, Adventure, Sci-Fi            ",170000000,312433331,621156389,Iron Man 2 2010
+The Incredibles,2004,115 min,8.0,90        ,"682,896",$261.44M,PG,"
+Animation, Action, Adventure            ",92000000,261441092,631441092,The Incredibles 2004
+The Rock,1996,136 min,7.4,58        ,"324,001",$134.07M,R,"
+Action, Adventure, Thriller            ",75000000,134069511,336069511,The Rock 1996
+Passengers,2016,116 min,7.0,41        ,"373,852",$100.01M,PG-13,"
+Drama, Romance, Sci-Fi            ",110000000,100014699,302239672,Passengers  2016
+X-Men: Apocalypse,2016,144 min,6.9,52        ,"410,798",$155.44M,PG-13,"
+Action, Adventure, Sci-Fi            ",178000000,155442489,542537546,X-Men: Apocalypse 2016
+Live Free or Die Hard,2007,128 min,7.1,69        ,"397,080",$134.53M,PG-13,"
+Action, Thriller            ",110000000,134529403,382288147,Live Free or Die Hard 2007
+Solo: A Star Wars Story,2018,135 min,6.9,62        ,"314,081",$213.77M,PG-13,"
+Action, Adventure, Sci-Fi            ",275000000,213767512,393151347,Solo: A Star Wars Story 2018
+Elysium,2013,109 min,6.6,61        ,"432,136",$93.05M,R,"
+Action, Drama, Sci-Fi            ",120000000,93050117,286192091,Elysium  2013
+Twister,1996,113 min,6.4,68        ,"187,328",$241.72M,PG-13,"
+Action, Adventure, Thriller            ",88000000,241688385,495700000,Twister  1996
+Hugo,2011,126 min,7.5,83        ,"313,622",$73.86M,PG,"
+Drama, Family, Fantasy            ",180000000,73864507,180047784,Hugo 2011
+Gangs of New York,2002,167 min,7.5,72        ,"421,445",$77.81M,R,"
+Crime, Drama            ",97000000,77730500,183124621,Gangs of New York 2002
+The Hunger Games: Mockingjay - Part 2,2015,137 min,6.6,65        ,"303,626",$281.72M,PG-13,"
+Action, Adventure, Sci-Fi            ",160000000,281723902,648986787,The Hunger Games: Mockingjay - Part 2 2015
+ParaNorman,2012,92 min,7.0,72        ,"98,316",$56.00M,PG,"
+Animation, Adventure, Comedy            ",60000000,56003051,108119662,ParaNorman 2012
+The Predator,2018,107 min,5.3,48        ,"122,993",$51.02M,R,"
+Action, Adventure, Sci-Fi            ",88000000,51024708,159487563,The Predator 2018
+X-Men: First Class,2011,131 min,7.7,65        ,"664,235",$146.41M,PG-13,"
+Action, Adventure, Sci-Fi            ",160000000,146408305,355408305,X-Men: First Class 2011
+Waterworld,1995,135 min,6.2,56        ,"188,681",$88.25M,PG-13,"
+Action, Adventure, Sci-Fi            ",175000000,88246220,264246220,Waterworld 1995
+Bumblebee,2018,114 min,6.7,66        ,"151,581",$127.20M,PG-13,"
+Action, Adventure, Sci-Fi            ",102000000,127195589,465195589,Bumblebee  2018
+Hercules,1997,93 min,7.3,74        ,"216,531",$99.05M,G,"
+Animation, Adventure, Comedy            ",100000000,72688614,243388614,Hercules 1997
+Hercules,2014,98 min,6.0,47        ,"151,179",$72.69M,PG-13,"
+Action, Adventure, Fantasy            ",100000000,72688614,243388614,Hercules  2014
+Hotel Transylvania 3: Summer Vacation,2018,97 min,6.3,54        ,"64,404",$167.51M,PG,"
+Animation, Adventure, Comedy            ",65000000,167500092,527103195,Hotel Transylvania 3: Summer Vacation 2018
+The Hunger Games: Mockingjay - Part 1,2014,123 min,6.6,64        ,"431,313",$337.14M,PG-13,"
+Action, Adventure, Sci-Fi            ",125000000,337135885,766575131,The Hunger Games: Mockingjay - Part 1 2014
+Children of Men,2006,109 min,7.9,84        ,"480,490",$35.55M,R,"
+Action, Sci-Fi, Thriller            ",76000000,35552383,69845011,Children of Men 2006
+The Incredible Hulk,2008,112 min,6.6,61        ,"457,412",$134.52M,PG-13,"
+Action, Adventure, Sci-Fi            ",137500000,134806913,265573859,The Incredible Hulk 2008
+Furious 7,2015,137 min,7.1,67        ,"375,640",$353.01M,PG-13,"
+Action, Adventure, Thriller            ",190000000,353007020,1516881526,Furious 7 2015
+Eagle Eye,2008,118 min,6.6,43        ,"182,241",$101.11M,PG-13,"
+Action, Mystery, Thriller            ",80000000,101440743,180585259,Eagle Eye 2008
+Wyatt Earp,1994,191 min,6.7,47        ,"48,025",$25.05M,PG-13,"
+Adventure, Biography, Crime            ",63000000,25052000,25052000,Wyatt Earp 1994
+Talladega Nights: The Ballad of Ricky Bobby,2006,108 min,6.6,66        ,"175,421",$148.21M,PG-13,"
+Comedy, Sport            ",73000000,148213377,162870525,Talladega Nights: The Ballad of Ricky Bobby 2006
+Face/Off,1997,138 min,7.2,82        ,"361,183",$112.23M,R,"
+Action, Crime, Sci-Fi            ",80000000,112276146,241200000,Face/Off 1997
+The Mummy Returns,2001,130 min,6.4,48        ,"311,595",$202.02M,PG-13,"
+Action, Adventure, Fantasy            ",98000000,202007640,435040395,The Mummy Returns 2001
+Big Fish,2003,125 min,8.0,58        ,"428,050",$66.26M,PG-13,"
+Adventure, Drama, Fantasy            ",70000000,66432867,123954323,Big Fish 2003
+Sing,2016,108 min,7.1,59        ,"143,462",$270.40M,PG,"
+Animation, Comedy, Family            ",75000000,270329045,632483611,Sing 2016
+The Da Vinci Code,2006,149 min,6.6,46        ,"415,938",$217.54M,PG-13,"
+Mystery, Thriller            ",125000000,217536138,767820459,The Da Vinci Code 2006
+Up,2009,96 min,8.2,88        ,"978,628",$293.00M,PG,"
+Animation, Adventure, Comedy            ",175000000,293004164,731463377,Up 2009
+The Day After Tomorrow,2004,124 min,6.4,47        ,"430,204",$186.74M,PG-13,"
+Action, Adventure, Sci-Fi            ",125000000,186740799,555840117,The Day After Tomorrow 2004
+The Hobbit: The Battle of the Five Armies,2014,144 min,7.4,59        ,"495,614",$255.12M,PG-13,"
+Adventure, Fantasy            ",250000000,255119788,941560732,The Hobbit: The Battle of the Five Armies 2014
+Couples Retreat,2009,113 min,5.5,23        ,"105,124",$109.21M,PG-13,"
+Comedy            ",60000000,109205660,172450423,Couples Retreat 2009
+Valerian and the City of a Thousand Planets,2017,136 min,6.5,51        ,"171,772",$41.19M,PG-13,"
+Action, Adventure, Fantasy            ",180000000,40479370,215098356,Valerian and the City of a Thousand Planets 2017
+Finding Nemo,2003,100 min,8.1,90        ,"986,463",$380.84M,G,"
+Animation, Adventure, Comedy            ",94000000,380529370,936094852,Finding Nemo 2003
+Gravity,2013,91 min,7.7,96        ,"793,089",$274.09M,PG-13,"
+Adventure, Drama, Sci-Fi            ",110000000,274092705,688214291,Gravity 2013
+Sucker Punch,2011,110 min,6.0,33        ,"237,678",$36.39M,PG-13,"
+Action, Adventure, Fantasy            ",75000000,36392502,89758389,Sucker Punch 2011
+Minority Report,2002,145 min,7.6,80        ,"527,756",$132.07M,PG-13,"
+Action, Crime, Mystery            ",102000000,132024714,358824714,Minority Report 2002
+Ant-Man and the Wasp,2018,118 min,7.0,70        ,"347,563",$216.65M,PG-13,"
+Action, Adventure, Comedy            ",130000000,216648740,623144660,Ant-Man and the Wasp 2018
+Night at the Museum,2006,108 min,6.4,48        ,"328,325",$250.86M,PG,"
+Adventure, Comedy, Family            ",110000000,250863268,579446407,Night at the Museum 2006
+Midway,2019,138 min,6.7,47        ,"75,875",-,PG-13,"
+Action, Drama, History            ",100000000,56846802,126829063,Midway 2019
+Daredevil,2003,103 min,5.3,42        ,"213,086",$102.54M,PG-13,"
+Action, Crime            ",80000000,102543518,182782518,Daredevil 2003
+Constantine,2005,121 min,7.0,50        ,"323,107",$75.98M,R,"
+Action, Fantasy, Horror            ",75000000,75976178,221593554,Constantine 2005
+Despicable Me,2010,95 min,7.6,72        ,"518,355",$251.51M,PG,"
+Animation, Adventure, Comedy            ",69000000,251513985,543464573,Despicable Me 2010
+Tangled,2010,100 min,7.7,71        ,"424,367",$200.82M,PG,"
+Animation, Adventure, Comedy            ",260000000,200821936,584899819,Tangled 2010
+Blood Diamond,2006,143 min,8.0,64        ,"520,720",$57.37M,R,"
+Adventure, Drama, Thriller            ",100000000,57377916,171377916,Blood Diamond 2006
+Collateral,2004,120 min,7.5,71        ,"380,436",$101.01M,R,"
+Crime, Drama, Thriller            ",60000000,100170152,217602967,Collateral 2004
+Pirates of the Caribbean: On Stranger Tides,2011,136 min,6.6,45        ,"498,843",$241.06M,PG-13,"
+Action, Adventure, Fantasy            ",379000000,241071802,1045713802,Pirates of the Caribbean: On Stranger Tides 2011
+The Equalizer 2,2018,121 min,6.7,50        ,"145,986",$102.08M,R,"
+Action, Crime, Thriller            ",77000000,102084362,190376181,The Equalizer 2 2018
+Downsizing,2017,135 min,5.7,63        ,"104,263",$24.45M,R,"
+Drama, Fantasy, Sci-Fi            ",68000000,24449754,54462971,Downsizing 2017
+Shooter,2007,124 min,7.2,53        ,"321,764",$47.00M,R,"
+Action, Drama, Thriller            ",60000000,47003582,95538560,Shooter  2007
+King Arthur: Legend of the Sword,2017,126 min,6.7,41        ,"203,412",$39.18M,PG-13,"
+Action, Adventure, Drama            ",175000000,39175066,139630336,King Arthur: Legend of the Sword 2017
+Hannibal,2001,131 min,6.8,57        ,"264,082",$165.09M,R,"
+Crime, Drama, Thriller            ",87000000,165092266,350100280,Hannibal 2001
+Cold Mountain,2003,154 min,7.2,73        ,"144,127",$95.64M,R,"
+Adventure, Drama, History            ",80000000,95632614,165173909,Cold Mountain 2003
+Red Dragon,2002,124 min,7.2,60        ,"262,621",$93.15M,R,"
+Crime, Drama, Thriller            ",78000000,92955420,206455420,Red Dragon 2002
+Deep Impact,1998,120 min,6.2,40        ,"171,075",$140.46M,PG-13,"
+Action, Drama, Sci-Fi            ",80000000,140464664,349464664,Deep Impact 1998
+X-Men: Days of Future Past,2014,132 min,7.9,75        ,"681,062",$233.92M,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,233921534,747862775,X-Men: Days of Future Past 2014
+Pacific Rim,2013,131 min,6.9,65        ,"481,072",$101.80M,PG-13,"
+Action, Adventure, Sci-Fi            ",190000000,101802906,411002906,Pacific Rim 2013
+The Longest Yard,2005,113 min,6.4,48        ,"169,835",$158.12M,PG-13,"
+Comedy, Crime, Sport            ",82000000,158119460,191558505,The Longest Yard 2005
+2012,2009,158 min,5.8,49        ,"364,536",$166.11M,PG-13,"
+Action, Adventure, Sci-Fi            ",200000000,166112167,757677748,2012  2009
+Fantastic Four,2005,106 min,5.7,40        ,"319,373",$154.70M,PG-13,"
+Action, Adventure, Fantasy            ",87500000,154696080,333132750,Fantastic Four  2005
+Fantastic Four,2015,100 min,4.2,27        ,"158,943",$56.12M,PG-13,"
+Action, Adventure, Sci-Fi            ",87500000,154696080,333132750,Fantastic Four 2015
+Lincoln,2012,150 min,7.3,86        ,"252,582",$182.21M,PG-13,"
+Biography, Drama, History            ",65000000,182207973,273346281,Lincoln 2012
+Apollo 13,1995,140 min,7.6,77        ,"281,521",$173.84M,PG,"
+Adventure, Drama, History            ",65000000,173772767,335802271,Apollo 13  1995
+Batman Returns,1992,126 min,7.0,68        ,"286,023",$162.83M,PG-13,"
+Action, Crime, Fantasy            ",80000000,162833635,266824291,Batman Returns 1992
+Star Trek Into Darkness,2013,132 min,7.7,72        ,"472,811",$228.78M,PG-13,"
+Action, Adventure, Sci-Fi            ",190000000,228778661,467381584,Star Trek Into Darkness 2013
+The Meg,2018,113 min,5.6,46        ,"160,908",$143.01M,PG-13,"
+Action, Horror, Sci-Fi            ",178000000,145443742,527370715,The Meg 2018
+The Fate of the Furious,2017,136 min,6.6,56        ,"219,870",$226.01M,PG-13,"
+Action, Adventure, Crime            ",250000000,225764765,1236703796,The Fate of the Furious 2017
+Noah,2014,138 min,5.7,68        ,"249,167",$101.20M,PG-13,"
+Action, Adventure, Drama            ",130000000,101200044,352831065,Noah 2014
+Wanted,2008,110 min,6.7,64        ,"374,828",$134.51M,R,"
+Action, Crime, Thriller            ",75000000,134508551,342416460,Wanted 2008
+San Andreas,2015,114 min,6.1,43        ,"224,746",$155.19M,PG-13,"
+Action, Adventure, Thriller            ",110000000,155190832,456258539,San Andreas 2015
+Memoirs of a Geisha,2005,145 min,7.4,54        ,"143,432",$57.49M,PG-13,"
+Drama, Romance            ",85000000,57010853,161510853,Memoirs of a Geisha 2005
+King Kong,2005,187 min,7.2,81        ,"407,875",$218.08M,PG-13,"
+Action, Adventure, Drama            ",207000000,218080025,550517357,King Kong 2005
+King Kong,1976,134 min,5.9,61        ,"31,536",$52.61M,PG,"
+Adventure, Horror            ",207000000,218080025,550517357,King Kong 1976
+King Kong,1933,100 min,7.9,90        ,"82,706",$10.00M,Passed,"
+Adventure, Horror, Sci-Fi            ",207000000,218080025,550517357,King Kong 1933
+Meet Joe Black,1998,178 min,7.2,43        ,"227,533",$44.62M,PG-13,"
+Drama, Fantasy, Romance            ",85000000,44650003,44650003,Meet Joe Black 1998
+Indiana Jones and the Kingdom of the Crystal Skull,2008,122 min,6.1,65        ,"438,876",$317.10M,PG-13,"
+Action, Adventure            ",185000000,317101119,786635413,Indiana Jones and the Kingdom of the Crystal Skull 2008
+Snow White and the Huntsman,2012,127 min,6.1,57        ,"281,057",$155.33M,PG-13,"
+Action, Adventure, Drama            ",170000000,155136755,401021746,Snow White and the Huntsman 2012
+John Carter,2012,132 min,6.6,51        ,"263,222",$73.08M,PG-13,"
+Action, Adventure, Sci-Fi            ",263700000,73058679,282778100,John Carter 2012
+The Last Samurai,2003,154 min,7.7,55        ,"416,660",$111.11M,R,"
+Action, Drama            ",140000000,111110575,456810575,The Last Samurai 2003
+Sin City: A Dame to Kill For,2014,102 min,6.5,46        ,"157,073",$13.76M,R,"
+Action, Crime, Thriller            ",65000000,13757804,40650842,Sin City: A Dame to Kill For 2014
+Toy Story 4,2019,100 min,7.7,84        ,"223,998",$434.04M,G,"
+Animation, Adventure, Comedy            ",200000000,434038008,1073080329,Toy Story 4 2019
+Frozen II,2019,103 min,6.8,64        ,"153,114",$477.37M,PG,"
+Animation, Adventure, Comedy            ",150000000,477373578,1445182280,Frozen II 2019
+In the Heart of the Sea,2015,122 min,6.9,47        ,"130,761",$25.02M,PG-13,"
+Action, Adventure, Biography            ",100000000,25020758,89693309,In the Heart of the Sea 2015
+Peter Pan,2003,113 min,6.8,64        ,"69,662",$48.46M,PG,"
+Adventure, Family, Fantasy            ",100000000,48417850,95255485,Peter Pan 2003
+Kong: Skull Island,2017,118 min,6.6,62        ,"299,549",$168.05M,PG-13,"
+Action, Adventure, Fantasy            ",185000000,168052812,561072059,Kong: Skull Island 2017
+The Last Airbender,2010,103 min,4.0,20        ,"158,580",$131.56M,PG,"
+Action, Adventure, Family            ",150000000,131772187,319713881,The Last Airbender 2010
+Ender's Game,2013,114 min,6.6,51        ,"231,505",$61.74M,PG-13,"
+Action, Adventure, Fantasy            ",110000000,61737191,127983283,Ender's Game 2013
+King Arthur,2004,126 min,6.3,46        ,"163,362",$51.88M,PG-13,"
+Action, Adventure, Drama            ",90000000,51877963,203653524,King Arthur 2004
+Jack Reacher: Never Go Back,2016,118 min,6.1,47        ,"146,691",$58.70M,PG-13,"
+Action, Crime, Thriller            ",60000000,58697076,159946489,Jack Reacher: Never Go Back 2016
+Godzilla: King of the Monsters,2019,132 min,6.0,48        ,"167,512",$110.50M,PG-13,"
+Action, Adventure, Fantasy            ",170000000,110500138,383299915,Godzilla: King of the Monsters 2019
+Sully,2016,96 min,7.4,74        ,"254,277",$125.07M,PG-13,"
+Biography, Drama            ",60000000,125070033,238524556,Sully 2016
+True Lies,1994,141 min,7.2,63        ,"248,027",$146.28M,R,"
+Action, Comedy, Thriller            ",100000000,146282411,365300000,True Lies 1994
+Megamind,2010,95 min,7.2,63        ,"241,535",$148.42M,PG,"
+Animation, Action, Comedy            ",130000000,148415853,321887208,Megamind 2010
+Independence Day: Resurgence,2016,120 min,5.2,32        ,"173,071",$103.14M,PG-13,"
+Action, Adventure, Sci-Fi            ",165000000,103144286,384169424,Independence Day: Resurgence 2016
+G.I. Joe: Retaliation,2013,110 min,5.8,41        ,"177,969",$122.52M,PG-13,"
+Action, Adventure, Sci-Fi            ",140000000,122523060,375740705,G.I. Joe: Retaliation 2013
+Inferno,2016,121 min,6.2,42        ,"167,585",$34.34M,PG-13,"
+Action, Adventure, Crime            ",75000000,34343574,219519367,Inferno  2016
+Hellboy,2019,120 min,5.2,31        ,"84,212",$21.90M,R,"
+Action, Adventure, Fantasy            ",60000000,59623958,99823958,Hellboy 2019
+Hellboy,2004,122 min,6.8,72        ,"316,027",$59.62M,PG-13,"
+Action, Fantasy            ",60000000,59623958,99823958,Hellboy 2004
+Mission: Impossible,1996,110 min,7.1,59        ,"403,662",$180.98M,PG-13,"
+Action, Adventure, Thriller            ",80000000,180981886,457697994,Mission: Impossible 1996
+Space Jam,1996,88 min,6.5,59        ,"189,576",$90.46M,PG,"
+Animation, Adventure, Comedy            ",80000000,90463534,250180384,Space Jam 1996
+The Book of Eli,2010,118 min,6.9,53        ,"304,455",$94.84M,R,"
+Action, Adventure, Drama            ",80000000,94835059,158750817,The Book of Eli 2010
+Contagion,2011,106 min,6.8,70        ,"293,504",$75.66M,PG-13,"
+Drama, Thriller            ",60000000,75658097,137551594,Contagion 2011
+"I, Robot",2004,115 min,7.1,59        ,"516,143",$144.80M,PG-13,"
+Action, Drama, Sci-Fi            ",105000000,144801023,348629585,"I, Robot 2004"
+Unbroken,2014,137 min,7.2,59        ,"158,100",$115.64M,PG-13,"
+Action, Biography, Drama            ",65000000,115637895,163527824,Unbroken  2014
+Robin Hood,2018,116 min,5.3,32        ,"69,177",$30.82M,PG-13,"
+Action, Adventure, Drama            ",210000000,105487148,322459006,Robin Hood 2018
+Robin Hood,2010,140 min,6.6,53        ,"260,413",$105.27M,PG-13,"
+Action, Adventure, Drama            ",210000000,105487148,322459006,Robin Hood 2010
+Robin Hood,1973,83 min,7.6,57        ,"120,930",$32.06M,G,"
+Animation, Adventure, Comedy            ",210000000,105487148,322459006,Robin Hood 1973
+Con Air,1997,115 min,6.9,52        ,"286,152",$101.12M,R,"
+Action, Crime, Thriller            ",80000000,101117573,224117573,Con Air 1997
+The Expendables,2010,103 min,6.5,45        ,"335,215",$103.07M,R,"
+Action, Adventure, Thriller            ",82000000,103068524,268268174,The Expendables 2010
+Bee Movie,2007,91 min,6.1,54        ,"151,414",$126.63M,PG,"
+Animation, Adventure, Comedy            ",150000000,126631277,287594577,Bee Movie 2007
+Everest,2015,121 min,7.1,64        ,"208,654",$43.48M,PG-13,"
+Action, Adventure, Biography            ",65000000,43482270,221297061,Everest 2015
+Percy Jackson & the Olympians: The Lightning Thief,2010,118 min,5.9,47        ,"182,692",$88.76M,PG,"
+Adventure, Family, Fantasy            ",95000000,88768303,223050874,Percy Jackson & the Olympians: The Lightning Thief 2010
+Monsters University,2013,104 min,7.2,65        ,"338,514",$268.49M,G,"
+Animation, Adventure, Comedy            ",200000000,268488329,743455810,Monsters University 2013
+Transformers: The Last Knight,2017,154 min,5.2,27        ,"142,843",$130.17M,PG-13,"
+Action, Adventure, Sci-Fi            ",217000000,130168683,602893340,Transformers: The Last Knight 2017
+Big Hero 6,2014,102 min,7.8,74        ,"430,832",$222.53M,PG,"
+Animation, Action, Adventure            ",165000000,222527828,649657407,Big Hero 6 2014
+The Other Guys,2010,107 min,6.7,64        ,"253,452",$119.22M,PG-13,"
+Action, Comedy, Crime            ",100000000,119219978,170936470,The Other Guys 2010
+Warcraft,2016,123 min,6.8,32        ,"253,610",$47.37M,PG-13,"
+Action, Adventure, Fantasy            ",160000000,47365290,438899824,Warcraft 2016
+Master and Commander: The Far Side of the World,2003,138 min,7.4,81        ,"211,880",$93.93M,PG-13,"
+Action, Adventure, Drama            ",135000000,93926386,212912137,Master and Commander: The Far Side of the World 2003
+The Patriot,2000,165 min,7.2,63        ,"263,249",$113.33M,R,"
+Action, Drama, History            ",110000000,113330342,215300000,The Patriot 2000
+Men in Black 3,2012,106 min,6.8,58        ,"346,982",$179.02M,PG-13,"
+Action, Adventure, Comedy            ",215000000,179020854,654213485,Men in Black 3 2012
+Elektra,2005,97 min,4.7,34        ,"90,043",$24.41M,PG-13,"
+Action, Adventure, Crime            ",65000000,24409722,56824633,Elektra 2005
+RED 2,2013,116 min,6.6,47        ,"165,554",$53.26M,PG-13,"
+Action, Adventure, Comedy            ",84000000,53262560,141507355,RED 2 2013
+Men in Black: International,2019,114 min,5.6,38        ,"123,533",$80.00M,PG-13,"
+Action, Adventure, Comedy            ",110000000,80001807,253020464,Men in Black: International 2019
+Battleship,2012,131 min,5.8,41        ,"241,840",$65.42M,PG-13,"
+Action, Adventure, Sci-Fi            ",220000000,65233400,313477717,Battleship 2012
+Immortals,2011,110 min,6.0,46        ,"164,688",$83.50M,R,"
+Action, Drama, Fantasy            ",75000000,83504017,211562435,Immortals 2011
+X-Men: The Last Stand,2006,104 min,6.7,58        ,"497,189",$234.36M,PG-13,"
+Action, Adventure, Sci-Fi            ",210000000,234362462,459260946,X-Men: The Last Stand 2006
+Vice,2018,132 min,7.2,61        ,"133,699",$47.84M,R,"
+Biography, Comedy, Drama            ",60000000,47836282,70893782,Vice  2018
+Shrek 2,2004,93 min,7.2,75        ,"437,614",$436.47M,PG,"
+Animation, Adventure, Comedy            ",70000000,441226247,935253978,Shrek 2 2004
+Gangster Squad,2013,113 min,6.7,40        ,"210,539",$46.00M,R,"
+Action, Crime, Drama            ",60000000,46000903,104100903,Gangster Squad 2013
+The Lost World: Jurassic Park,1997,129 min,6.6,59        ,"395,339",$229.09M,PG-13,"
+Action, Adventure, Sci-Fi            ",75000000,229086679,618638999,The Lost World: Jurassic Park 1997
+The Twilight Saga: Eclipse,2010,124 min,5.0,58        ,"236,536",$300.53M,PG-13,"
+Action, Adventure, Drama            ",68000000,300531751,706102828,The Twilight Saga: Eclipse 2010
+The Happening,2008,91 min,5.0,34        ,"201,651",$64.51M,R,"
+Drama, Mystery, Sci-Fi            ",60000000,64506874,162778384,The Happening 2008
+The Secret Life of Walter Mitty,2013,114 min,7.3,54        ,"304,226",$58.24M,PG,"
+Adventure, Comedy, Drama            ",91000000,58236838,187861183,The Secret Life of Walter Mitty 2013
+How to Train Your Dragon,2010,98 min,8.1,75        ,"695,695",$217.58M,PG,"
+Animation, Action, Adventure            ",165000000,217581232,494870992,How to Train Your Dragon 2010
+The League of Extraordinary Gentlemen,2003,110 min,5.8,30        ,"172,314",$66.47M,PG-13,"
+Action, Adventure, Fantasy            ",78000000,66465204,179265204,The League of Extraordinary Gentlemen 2003
+Marley & Me,2008,115 min,7.1,53        ,"152,078",$143.15M,PG,"
+Comedy, Drama, Family            ",60000000,143153751,247812011,Marley & Me 2008
+Annie,1982,127 min,6.6,39        ,"42,453",$57.06M,PG,"
+Comedy, Drama, Family            ",65000000,85911262,139829625,Annie 1982
+Annie,2014,118 min,5.3,33        ,"36,357",$85.91M,PG,"
+Comedy, Drama, Family            ",65000000,85911262,139829625,Annie 2014
+The Bourne Identity,2002,119 min,7.9,68        ,"524,916",$121.66M,PG-13,"
+Action, Mystery, Thriller            ",60000000,121468960,214357371,The Bourne Identity 2002
+Gone in 60 Seconds,2000,118 min,6.5,35        ,"268,592",$101.65M,PG-13,"
+Action, Crime, Thriller            ",103300000,101643008,232643008,Gone in 60 Seconds 2000
+Blackhat,2015,133 min,5.4,51        ,"56,904",$7.10M,R,"
+Action, Crime, Thriller            ",70000000,8005980,19665004,Blackhat 2015
+Unbreakable,2000,106 min,7.3,62        ,"401,863",$95.01M,PG-13,"
+Drama, Mystery, Sci-Fi            ",73243106,94999143,248099143,Unbreakable 2000
+Austin Powers in Goldmember,2002,94 min,6.2,62        ,"202,331",$213.31M,PG-13,"
+Action, Adventure, Comedy            ",63000000,213117789,296338663,Austin Powers in Goldmember 2002
+Hotel Transylvania 2,2015,89 min,6.7,44        ,"116,089",$169.70M,PG,"
+Animation, Adventure, Comedy            ",80000000,169700110,469500298,Hotel Transylvania 2 2015
+Public Enemies,2009,140 min,7.0,70        ,"290,758",$97.10M,R,"
+Biography, Crime, Drama            ",102500000,97104620,212282709,Public Enemies 2009
+Blades of Glory,2007,93 min,6.3,64        ,"163,240",$118.59M,PG-13,"
+Comedy, Sport            ",61000000,118594548,145594548,Blades of Glory 2007
+Shark Tale,2004,90 min,6.0,48        ,"174,445",$160.86M,PG,"
+Animation, Adventure, Comedy            ",75000000,161412000,371741123,Shark Tale 2004
+RoboCop,1987,102 min,7.6,67        ,"244,135",$53.42M,R,"
+Action, Crime, Sci-Fi            ",120000000,58607007,242981799,RoboCop 1987
+RoboCop,2014,117 min,6.1,52        ,"221,686",$58.61M,PG-13,"
+Action, Crime, Sci-Fi            ",120000000,58607007,242981799,RoboCop 2014
+Contact,1997,150 min,7.5,62        ,"264,273",$100.92M,PG,"
+Drama, Mystery, Sci-Fi            ",90000000,100920329,165900000,Contact 1997
+Jason Bourne,2016,123 min,6.6,58        ,"216,422",$162.43M,PG-13,"
+Action, Thriller            ",120000000,162192920,416168316,Jason Bourne  2016
+Conan the Barbarian,2011,113 min,5.2,36        ,"97,379",$21.30M,R,"
+Action, Adventure, Fantasy            ",90000000,21295021,63356133,Conan the Barbarian 2011
+Conan the Barbarian,1982,129 min,6.9,43        ,"142,956",$39.57M,R,"
+Action, Adventure, Fantasy            ",90000000,21295021,63356133,Conan the Barbarian 1982
+Transformers: Age of Extinction,2014,165 min,5.6,32        ,"305,227",$245.44M,PG-13,"
+Action, Adventure, Sci-Fi            ",210000000,245439076,1104054072,Transformers: Age of Extinction 2014
+Clash of the Titans,2010,106 min,5.8,39        ,"276,368",$163.21M,PG-13,"
+Action, Adventure, Fantasy            ",125000000,163214888,493214888,Clash of the Titans 2010
+Clash of the Titans,1981,118 min,6.9,59        ,"42,907",$41.09M,PG,"
+Action, Adventure, Family            ",125000000,163214888,493214888,Clash of the Titans 1981
+Dracula Untold,2014,92 min,6.3,40        ,"186,984",$56.28M,PG-13,"
+Action, Drama, Fantasy            ",70000000,55991880,220241723,Dracula Untold 2014
+The Mask of Zorro,1998,136 min,6.8,63        ,"175,923",$94.10M,PG-13,"
+Action, Adventure, Comedy            ",65000000,93828745,233700000,The Mask of Zorro 1998
+Miami Vice,2006,132 min,6.0,66        ,"113,819",$63.45M,R,"
+Action, Crime, Drama            ",135000000,63478838,164920076,Miami Vice 2006
+Onward,2020,102 min,7.4,61        ,"126,949",$61.56M,PG,"
+Animation, Adventure, Comedy            ",200000000,61555145,133317030,Onward  2020
+The Expendables 3,2014,126 min,6.1,35        ,"175,832",$39.32M,PG-13,"
+Action, Adventure, Thriller            ",100000000,39322544,209461378,The Expendables 3 2014
+Perfume: The Story of a Murderer,2006,147 min,7.5,56        ,"241,531",$2.22M,R,"
+Crime, Drama, Fantasy            ",63700000,2223293,133603463,Perfume: The Story of a Murderer 2006
+Die Hard 2,1990,124 min,7.1,67        ,"348,065",$117.54M,R,"
+Action, Thriller            ",70000000,117323878,239813888,Die Hard 2 1990
+War for the Planet of the Apes,2017,140 min,7.4,82        ,"240,082",$146.88M,PG-13,"
+Action, Adventure, Drama            ",152000000,146880162,489592267,War for the Planet of the Apes 2017
+Focus,2015,105 min,6.6,56        ,"231,716",$53.86M,R,"
+Comedy, Crime, Drama            ",65000000,53862963,168065700,Focus  2015
+The Island,2005,136 min,6.8,50        ,"308,321",$35.82M,PG-13,"
+Action, Sci-Fi, Thriller            ",120000000,35818913,163018913,The Island 2005
+Enemy of the State,1998,132 min,7.3,67        ,"235,027",$111.55M,R,"
+Action, Thriller            ",85000000,111549836,250649836,Enemy of the State 1998
+Kung Fu Panda,2008,92 min,7.6,74        ,"439,657",$215.43M,PG,"
+Animation, Action, Adventure            ",130000000,215434591,631910531,Kung Fu Panda 2008
+Enchanted,2007,107 min,7.0,75        ,"188,162",$127.81M,PG,"
+Animation, Adventure, Comedy            ",85000000,127706877,340384141,Enchanted 2007
+Evolution,2001,101 min,6.1,40        ,"125,277",$38.35M,PG-13,"
+Comedy, Sci-Fi            ",80000000,38311134,98341932,Evolution 2001
+Angels & Demons,2009,138 min,6.7,48        ,"283,110",$133.38M,PG-13,"
+Action, Mystery, Thriller            ",150000000,133375846,490875846,Angels & Demons 2009
+Incredibles 2,2018,118 min,7.6,80        ,"270,140",$608.58M,PG,"
+Animation, Action, Adventure            ",200000000,608581744,1242805359,Incredibles 2 2018
+Transcendence,2014,119 min,6.2,42        ,"222,697",$23.02M,PG-13,"
+Action, Drama, Sci-Fi            ",100000000,23022309,103039258,Transcendence  2014
+Beowulf,2007,115 min,6.2,59        ,"165,102",$82.16M,PG-13,"
+Animation, Action, Adventure            ",150000000,82280579,195080579,Beowulf 2007
+The A-Team,2010,117 min,6.7,47        ,"252,498",$77.22M,PG-13,"
+Action, Adventure, Thriller            ",110000000,77222099,177241171,The A-Team 2010
+Jarhead,2005,125 min,7.0,58        ,"182,056",$62.66M,R,"
+Action, Biography, Drama            ",72000000,62647540,96947540,Jarhead 2005
+The Aviator,2004,170 min,7.5,77        ,"346,644",$102.61M,PG-13,"
+Biography, Drama            ",110000000,102608827,208370892,The Aviator 2004
+The Sum of All Fears,2002,124 min,6.4,45        ,"111,086",$118.91M,PG-13,"
+Action, Drama, Thriller            ",68000000,118471320,193500000,The Sum of All Fears 2002
+Teenage Mutant Ninja Turtles,2014,101 min,5.8,31        ,"205,374",$191.20M,PG-13,"
+Action, Adventure, Comedy            ",125000000,191204754,485004754,Teenage Mutant Ninja Turtles 2014
+The Lego Movie,2014,100 min,7.7,83        ,"335,810",$257.76M,PG,"
+Animation, Adventure, Comedy            ",60000000,257784718,468084718,The Lego Movie 2014
+Life of Pi,2012,127 min,7.9,79        ,"601,432",$124.99M,PG,"
+Adventure, Drama, Fantasy            ",120000000,124987022,619310368,Life of Pi 2012
+300: Rise of an Empire,2014,102 min,6.2,48        ,"289,284",$106.58M,R,"
+Action, Drama            ",110000000,106580051,330780051,300: Rise of an Empire 2014
+Real Steel,2011,127 min,7.0,56        ,"311,463",$85.47M,PG-13,"
+Action, Drama, Sci-Fi            ",110000000,85463309,263880341,Real Steel 2011
+Maze Runner: The Death Cure,2018,143 min,6.3,50        ,"125,499",$58.03M,PG-13,"
+Action, Adventure, Sci-Fi            ",61000000,58032443,265878536,Maze Runner: The Death Cure 2018
+Allied,2016,124 min,7.1,60        ,"149,343",$40.10M,R,"
+Action, Drama, Romance            ",106000000,40098064,119266661,Allied 2016
+Jupiter Ascending,2015,127 min,5.3,40        ,"183,888",$47.39M,PG-13,"
+Action, Adventure, Sci-Fi            ",179000000,47482519,181982519,Jupiter Ascending 2015
+Blade: Trinity,2004,113 min,5.8,38        ,"171,029",$52.41M,R,"
+Action, Horror, Sci-Fi            ",65000000,52397389,131353165,Blade: Trinity 2004
+Cars 3,2017,102 min,6.7,59        ,"85,938",$152.90M,G,"
+Animation, Adventure, Comedy            ",175000000,152901115,383541369,Cars 3 2017
+Rampage,2018,107 min,6.1,45        ,"155,327",$101.03M,PG-13,"
+Action, Adventure, Sci-Fi            ",120000000,101028233,427947217,Rampage 2018
+The Golden Compass,2007,113 min,6.1,51        ,"183,512",$70.11M,PG-13,"
+Adventure, Family, Fantasy            ",205000000,70107728,367262558,The Golden Compass 2007
+First Man,2018,141 min,7.3,84        ,"178,968",$44.94M,PG-13,"
+Biography, Drama, History            ",60000000,44936545,105703325,First Man 2018
+Deep Blue Sea,1999,105 min,5.9,54        ,"129,805",$73.65M,R,"
+Action, Adventure, Sci-Fi            ",60000000,73648228,165048228,Deep Blue Sea 1999
+47 Ronin,2013,128 min,6.3,28        ,"154,510",$38.36M,PG-13,"
+Action, Drama, Fantasy            ",175000000,38362475,151716815,47 Ronin 2013
+The Jungle Book,2016,106 min,7.4,77        ,"267,700",$364.00M,PG,"
+Adventure, Comedy, Drama            ",175000000,364001123,953554418,The Jungle Book 2016
+The Jungle Book,1967,78 min,7.6,65        ,"173,031",$141.84M,G,"
+Animation, Adventure, Comedy            ",175000000,364001123,953554418,The Jungle Book 1967
+Lady in the Water,2006,110 min,5.5,36        ,"97,594",$42.29M,PG-13,"
+Drama, Fantasy, Mystery            ",75000000,42285169,72785169,Lady in the Water 2006
+Vanilla Sky,2001,136 min,6.9,45        ,"256,072",$100.61M,R,"
+Fantasy, Mystery, Romance            ",70000000,100614858,202726605,Vanilla Sky 2001
+The Wolverine,2013,126 min,6.7,61        ,"444,702",$132.56M,PG-13,"
+Action, Sci-Fi            ",115000000,132556852,416456852,The Wolverine 2013
+Jurassic Park III,2001,92 min,5.9,42        ,"305,663",$181.17M,PG-13,"
+Action, Adventure, Sci-Fi            ",93000000,181166115,365900000,Jurassic Park III 2001
+Fast & Furious,2009,107 min,6.6,46        ,"275,632",$155.06M,PG-13,"
+Action, Thriller            ",85000000,155064265,359347833,Fast & Furious 2009
+The Italian Job,2003,111 min,7.0,68        ,"353,945",$106.13M,PG-13,"
+Action, Crime, Thriller            ",60000000,106126012,176262839,The Italian Job 2003
+Godzilla,2014,123 min,6.4,62        ,"399,320",$200.68M,PG-13,"
+Action, Adventure, Sci-Fi            ",160000000,200676069,529076069,Godzilla 2014
+Godzilla,1998,139 min,5.4,32        ,"188,529",$136.31M,PG-13,"
+Action, Sci-Fi, Thriller            ",160000000,200676069,529076069,Godzilla  1998
+The Call of the Wild,2020,100 min,6.8,47        ,"44,190",$62.34M,PG,"
+Adventure, Drama, Family            ",125000000,62342368,107360936,The Call of the Wild 2020
+Exodus: Gods and Kings,2014,150 min,6.0,52        ,"163,952",$65.01M,PG-13,"
+Action, Adventure, Drama            ",140000000,65014513,268314513,Exodus: Gods and Kings 2014
+Abraham Lincoln: Vampire Hunter,2012,105 min,5.9,42        ,"152,617",$37.52M,R,"
+Action, Fantasy, Horror            ",67500000,37519139,137489730,Abraham Lincoln: Vampire Hunter 2012
+Rango,2011,107 min,7.2,75        ,"249,436",$123.48M,PG,"
+Animation, Adventure, Comedy            ",135000000,123477607,245724600,Rango 2011
+A Good Day to Die Hard,2013,98 min,5.3,28        ,"202,619",$67.35M,R,"
+Action, Thriller            ",92000000,67349198,304249198,A Good Day to Die Hard 2013
+Hollow Man,2000,112 min,5.8,24        ,"127,637",$73.21M,R,"
+Action, Horror, Sci-Fi            ",90000000,73209340,191200000,Hollow Man 2000
+Unstoppable,2010,98 min,6.8,69        ,"191,461",$81.56M,PG-13,"
+Action, Thriller            ",95000000,81562942,165720921,Unstoppable 2010
+Wreck-It Ralph,2012,101 min,7.7,72        ,"397,260",$189.42M,PG,"
+Animation, Adventure, Comedy            ",165000000,189412677,496511521,Wreck-It Ralph 2012
+Brave,2012,93 min,7.1,69        ,"389,205",$237.28M,PG,"
+Animation, Adventure, Comedy            ",185000000,237282182,554606532,Brave 2012
+Tomorrowland,2015,130 min,6.4,60        ,"177,595",$93.44M,PG,"
+Action, Adventure, Family            ",170000000,93436322,206627518,Tomorrowland 2015
+Mary Poppins Returns,2018,130 min,6.7,66        ,"82,205",$171.96M,PG,"
+Comedy, Family, Fantasy            ",130000000,171958438,348901032,Mary Poppins Returns 2018
+The Dark Tower,2017,95 min,5.6,34        ,"133,670",$50.70M,PG-13,"
+Action, Adventure, Fantasy            ",60000000,50701325,113461527,The Dark Tower 2017
+The Three Musketeers,2011,110 min,5.7,35        ,"105,975",$20.38M,PG-13,"
+Action, Adventure, Fantasy            ",90000000,20377913,139877913,The Three Musketeers 2011
+The Three Musketeers,1993,105 min,6.4,43        ,"52,926",$53.90M,PG,"
+Action, Adventure, Comedy            ",90000000,20377913,139877913,The Three Musketeers 1993
+The Mortal Instruments: City of Bones,2013,130 min,5.9,33        ,"130,439",$31.17M,PG-13,"
+Action, Adventure, Fantasy            ",60000000,31165421,75965567,The Mortal Instruments: City of Bones 2013
+National Treasure,2004,131 min,6.9,39        ,"316,203",$173.01M,PG,"
+Action, Adventure, Mystery            ",100000000,173005002,331323410,National Treasure 2004
+Now You See Me 2,2016,129 min,6.5,46        ,"266,607",$65.08M,PG-13,"
+Action, Adventure, Comedy            ",90000000,65075540,328325007,Now You See Me 2 2016
+xXx,2002,124 min,5.9,48        ,"176,676",$142.11M,PG-13,"
+Action, Adventure, Thriller            ",70000000,141930000,267200000,xXx 2002
+Osmosis Jones,2001,95 min,6.3,57        ,"34,445",$13.60M,PG,"
+Animation, Action, Adventure            ",70000000,13596911,13596911,Osmosis Jones 2001
+2 Fast 2 Furious,2003,107 min,5.9,38        ,"263,585",$127.15M,PG-13,"
+Action, Crime, Thriller            ",76000000,127120058,236410607,2 Fast 2 Furious 2003
+Tears of the Sun,2003,121 min,6.6,48        ,"117,947",$43.73M,R,"
+Action, Drama, Thriller            ",75000000,43632458,85632458,Tears of the Sun 2003
+The Legend of Tarzan,2016,110 min,6.2,44        ,"170,236",$126.64M,PG-13,"
+Action, Adventure, Drama            ",180000000,126643061,348902025,The Legend of Tarzan 2016
+Mission: Impossible III,2006,126 min,6.9,66        ,"341,611",$134.03M,PG-13,"
+Action, Adventure, Thriller            ",150000000,133501348,399387745,Mission: Impossible III 2006
+Robots,2005,91 min,6.3,64        ,"139,149",$128.20M,PG,"
+Animation, Adventure, Comedy            ",80000000,128200012,260636271,Robots 2005
+Madagascar,2005,86 min,6.9,57        ,"381,556",$193.60M,PG,"
+Animation, Adventure, Comedy            ",75000000,193595521,556559566,Madagascar 2005
+Alien: Resurrection,1997,109 min,6.2,63        ,"238,026",$47.75M,R,"
+Action, Horror, Sci-Fi            ",60000000,47795018,160700000,Alien: Resurrection 1997
+Resident Evil: Retribution,2012,95 min,5.4,39        ,"137,383",$42.35M,R,"
+Action, Horror, Sci-Fi            ",65000000,42345531,240647629,Resident Evil: Retribution 2012
+Atlantis: The Lost Empire,2001,95 min,6.9,52        ,"111,534",$84.05M,PG,"
+Animation, Action, Adventure            ",90000000,84052762,186049020,Atlantis: The Lost Empire 2001
+Sherlock Holmes: A Game of Shadows,2011,129 min,7.5,48        ,"435,016",$186.85M,PG-13,"
+Action, Adventure, Mystery            ",125000000,186848418,535663443,Sherlock Holmes: A Game of Shadows 2011
+The Day the Earth Stood Still,2008,104 min,5.5,40        ,"166,954",$79.37M,PG-13,"
+Drama, Sci-Fi, Thriller            ",80000000,79366978,237370350,The Day the Earth Stood Still 2008
+The Emperor's New Groove,2000,78 min,7.4,70        ,"190,510",$89.30M,G,"
+Animation, Adventure, Comedy            ",100000000,89630573,169630573,The Emperor's New Groove 2000
+The Secret Life of Pets,2016,87 min,6.5,61        ,"191,678",$368.38M,PG,"
+Animation, Adventure, Comedy            ",75000000,368384330,885302500,The Secret Life of Pets 2016
+Hulk,2003,138 min,5.6,54        ,"259,524",$132.18M,PG-13,"
+Action, Sci-Fi            ",137000000,132177234,245031679,Hulk 2003
+Fast Five,2011,130 min,7.3,66        ,"367,683",$209.84M,PG-13,"
+Action, Adventure, Crime            ",125000000,210031325,630163454,Fast Five 2011
+Mystery Men,1999,121 min,6.1,65        ,"65,300",$29.66M,PG-13,"
+Action, Comedy, Fantasy            ",68000000,29762011,33462011,Mystery Men 1999
+The Mummy: Tomb of the Dragon Emperor,2008,112 min,5.2,31        ,"155,715",$102.49M,PG-13,"
+Action, Fantasy, Horror            ",175000000,102491776,405760225,The Mummy: Tomb of the Dragon Emperor 2008
+The Adventures of Tintin,2011,107 min,7.3,68        ,"223,623",$77.59M,PG,"
+Animation, Action, Adventure            ",130000000,77591831,373993951,The Adventures of Tintin 2011
+Joy,2015,124 min,6.6,56        ,"132,591",$56.45M,PG-13,"
+Biography, Drama            ",60000000,56451232,101134059,Joy  2015
+Ice Age,2002,81 min,7.5,60        ,"458,638",$176.39M,PG,"
+Animation, Adventure, Comedy            ",65000000,176387405,386116343,Ice Age 2002
+Last Action Hero,1993,130 min,6.4,44        ,"144,644",$50.02M,PG-13,"
+Action, Adventure, Comedy            ",85000000,50016394,137298489,Last Action Hero 1993
+American Assassin,2017,111 min,6.2,45        ,"77,057",$36.25M,R,"
+Action, Thriller            ",63000000,36249674,68310140,American Assassin 2017
+Mortal Engines,2018,128 min,6.1,44        ,"118,297",$15.95M,PG-13,"
+Action, Adventure, Fantasy            ",100000000,15951040,85480271,Mortal Engines 2018
+Ghost Rider,2007,110 min,5.3,35        ,"230,196",$115.80M,PG-13,"
+Action, Fantasy, Thriller            ",120000000,115802596,229545589,Ghost Rider 2007
+Skyscraper,2018,102 min,5.8,51        ,"114,847",$68.42M,PG-13,"
+Action, Adventure, Thriller            ",125000000,68420120,304868961,Skyscraper 2018
+Rise of the Planet of the Apes,2011,105 min,7.5,68        ,"509,442",$176.76M,PG-13,"
+Action, Drama, Sci-Fi            ",93000000,176760185,470986200,Rise of the Planet of the Apes 2011
+Deepwater Horizon,2016,107 min,7.1,68        ,"160,719",$61.43M,PG-13,"
+Action, Drama, History            ",156000000,61433527,122603824,Deepwater Horizon 2016
+Toy Story 3,2010,103 min,8.2,92        ,"788,313",$415.00M,G,"
+Animation, Adventure, Comedy            ",200000000,415004880,1068879522,Toy Story 3 2010
+Rush Hour 2,2001,90 min,6.6,48        ,"208,957",$226.16M,PG-13,"
+Action, Comedy, Crime            ",90000000,226164286,347425832,Rush Hour 2 2001
+The Princess and the Frog,2009,97 min,7.1,73        ,"132,836",$104.40M,G,"
+Animation, Adventure, Comedy            ",105000000,104400899,270997378,The Princess and the Frog 2009
+The Hangover Part II,2011,102 min,6.5,44        ,"478,805",$254.46M,R,"
+Comedy            ",80000000,254464305,586764305,The Hangover Part II 2011
+Alexander,2004,175 min,5.6,39        ,"166,306",$34.30M,R,"
+Action, Biography, Drama            ",155000000,34297191,167297191,Alexander 2004
+The Abyss,1989,140 min,7.5,62        ,"170,832",$54.46M,PG-13,"
+Adventure, Drama, Mystery            ",70000000,54243125,54243441,The Abyss 1989
+The Chronicles of Riddick,2004,119 min,6.7,38        ,"220,722",$57.76M,R,"
+Action, Adventure, Sci-Fi            ",120000000,57712751,107212751,The Chronicles of Riddick 2004
+Cliffhanger,1993,113 min,6.4,60        ,"124,883",$84.05M,R,"
+Action, Adventure, Thriller            ",65000000,84049211,255000000,Cliffhanger 1993
+Geostorm,2017,109 min,5.3,21        ,"101,415",$33.70M,PG-13,"
+Action, Sci-Fi, Thriller            ",100000000,33700160,220796009,Geostorm 2017
+Shrek the Third,2007,93 min,6.1,58        ,"292,023",$320.71M,PG,"
+Animation, Adventure, Comedy            ",160000000,322719944,807330936,Shrek the Third 2007
+The Invasion,2007,99 min,5.9,45        ,"76,594",$15.07M,PG-13,"
+Sci-Fi, Thriller            ",80000000,15074191,40147042,The Invasion  2007
+50 First Dates,2004,99 min,6.8,48        ,"339,658",$120.91M,PG-13,"
+Comedy, Drama, Romance            ",75000000,120776832,196320329,50 First Dates 2004
+The Perfect Storm,2000,130 min,6.4,59        ,"161,866",$182.62M,PG-13,"
+Action, Adventure, Drama            ",120000000,182618434,328711434,The Perfect Storm 2000
+Broken Arrow,1996,108 min,6.1,61        ,"94,865",$70.77M,R,"
+Action, Adventure, Thriller            ",65000000,70645997,148345997,Broken Arrow 1996
+The Campaign,2012,85 min,6.1,50        ,"127,818",$86.91M,R,"
+Comedy            ",95000000,86907746,104907746,The Campaign 2012
+Ocean's Twelve,2004,125 min,6.5,58        ,"373,548",$125.54M,PG-13,"
+Crime, Thriller            ",110000000,125531634,362989076,Ocean's Twelve 2004
+This Means War,2012,103 min,6.3,31        ,"181,474",$54.76M,PG-13,"
+Action, Comedy, Romance            ",65000000,54760791,156974557,This Means War 2012
+What Women Want,2000,127 min,6.4,47        ,"200,761",$182.81M,PG-13,"
+Comedy, Fantasy, Romance            ",65000000,182805123,374105123,What Women Want 2000
+Oz the Great and Powerful,2013,130 min,6.3,44        ,"203,182",$234.91M,PG,"
+Adventure, Family, Fantasy            ",200000000,234770996,490359051,Oz the Great and Powerful 2013
+Rio,2011,96 min,6.9,63        ,"216,008",$143.62M,G,"
+Animation, Adventure, Comedy            ",90000000,143619809,487519809,Rio 2011
+Power Rangers,2017,124 min,5.9,44        ,"105,041",$85.36M,PG-13,"
+Action, Adventure, Sci-Fi            ",120000000,85364450,142531552,Power Rangers 2017
+Superman Returns,2006,154 min,6.0,72        ,"276,521",$200.08M,PG-13,"
+Action, Sci-Fi            ",232000000,200120000,391081192,Superman Returns 2006
+How the Grinch Stole Christmas,2000,104 min,6.2,46        ,"222,875",$260.04M,PG,"
+Comedy, Family, Fantasy            ",123000000,260348825,345445403,How the Grinch Stole Christmas 2000
+Journey 2: The Mysterious Island,2012,94 min,5.8,41        ,"98,265",$103.86M,PG,"
+Action, Adventure, Comedy            ",79000000,103860290,318146162,Journey 2: The Mysterious Island 2012
+Basic Instinct 2,2006,114 min,4.4,26        ,"38,711",$5.97M,R,"
+Drama, Mystery, Thriller            ",70000000,5946136,35417162,Basic Instinct 2 2006
+Transformers: Revenge of the Fallen,2009,149 min,6.0,35        ,"394,873",$402.11M,PG-13,"
+Action, Adventure, Sci-Fi            ",210000000,402111870,836519699,Transformers: Revenge of the Fallen 2009
+Terminator 3: Rise of the Machines,2003,109 min,6.3,66        ,"387,080",$150.37M,R,"
+Action, Sci-Fi            ",170000000,150358296,433058296,Terminator 3: Rise of the Machines 2003
+The Scorpion King,2002,92 min,5.5,45        ,"134,556",$91.05M,PG-13,"
+Action, Adventure, Fantasy            ",60000000,90580000,165890634,The Scorpion King 2002
+Bright,2017,117 min,6.3,29        ,"178,332",-,TV-MA,"
+Action, Fantasy, Thriller            ",90000000,0,0,Bright  2017
+Transformers: Dark of the Moon,2011,154 min,6.2,42        ,"394,791",$352.39M,PG-13,"
+Action, Adventure, Sci-Fi            ",195000000,352390543,1123794079,Transformers: Dark of the Moon 2011
+Minions,2015,91 min,6.4,56        ,"222,189",$336.05M,PG,"
+Animation, Adventure, Comedy            ",74000000,336045770,1159631140,Minions 2015
+Red Dawn,1984,114 min,6.4,53        ,"53,796",$38.38M,PG-13,"
+Action, Drama            ",65000000,44806783,48164150,Red Dawn 1984
+Red Dawn,2012,93 min,5.4,31        ,"75,377",$44.81M,PG-13,"
+Action, Drama            ",65000000,44806783,48164150,Red Dawn 2012
+Abominable,2019,97 min,7.0,61        ,"34,342",$60.72M,PG,"
+Animation, Adventure, Comedy            ",75000000,60761390,188659191,Abominable 2019
+Need for Speed,2014,132 min,6.4,39        ,"166,908",$43.58M,PG-13,"
+Action, Crime, Thriller            ",66000000,43568507,194169619,Need for Speed 2014
+Bruce Almighty,2003,101 min,6.8,46        ,"384,951",$242.83M,PG-13,"
+Comedy, Fantasy            ",81000000,242704995,484468608,Bruce Almighty 2003
+The Dictator,2012,83 min,6.4,58        ,"290,353",$59.65M,R,"
+Comedy            ",65000000,59650222,180148897,The Dictator 2012
+Despicable Me 2,2013,98 min,7.3,62        ,"381,841",$368.06M,PG,"
+Animation, Adventure, Comedy            ",76000000,368065385,975216835,Despicable Me 2 2013
+The Missing,2003,137 min,6.5,55        ,"34,711",$26.90M,R,"
+Adventure, Thriller, Western            ",65000000,26900336,38253433,The Missing  2003
+Something's Gotta Give,2003,128 min,6.7,66        ,"116,733",$124.73M,PG-13,"
+Comedy, Drama, Romance            ",80000000,124685242,266685242,Something's Gotta Give 2003
+Clear and Present Danger,1994,141 min,6.9,74        ,"95,190",$122.19M,PG-13,"
+Action, Crime, Drama            ",62000000,122012656,207500000,Clear and Present Danger 1994
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016,112 min,6.0,40        ,"88,361",$82.05M,PG-13,"
+Action, Adventure, Comedy            ",135000000,82051601,245328374,Teenage Mutant Ninja Turtles: Out of the Shadows 2016
+What Dreams May Come,1998,113 min,7.0,44        ,"105,925",$55.49M,PG-13,"
+Drama, Fantasy, Romance            ",80000000,55485043,71485043,What Dreams May Come 1998
+Sex and the City 2,2010,146 min,4.5,27        ,"76,717",$95.35M,R,"
+Comedy, Drama, Romance            ",95000000,95347692,294680778,Sex and the City 2 2010
+The Boss Baby,2017,97 min,6.3,50        ,"117,691",$175.00M,PG,"
+Animation, Adventure, Comedy            ",125000000,175003033,527965936,The Boss Baby 2017
+xXx: Return of Xander Cage,2017,107 min,5.2,42        ,"89,098",$44.90M,PG-13,"
+Action, Adventure, Thriller            ",85000000,44898413,345033359,xXx: Return of Xander Cage 2017
+Pacific Rim: Uprising,2018,111 min,5.6,44        ,"111,678",$59.87M,PG-13,"
+Action, Adventure, Sci-Fi            ",155000000,59874525,290930148,Pacific Rim: Uprising 2018
+Cars 2,2011,106 min,6.1,57        ,"172,504",$191.45M,G,"
+Animation, Adventure, Comedy            ",200000000,191450875,560155383,Cars 2 2011
+Hancock,2008,92 min,6.4,49        ,"460,641",$227.95M,PG-13,"
+Action, Drama, Fantasy            ",150000000,227946274,624234272,Hancock 2008
+State of Play,2009,127 min,7.1,64        ,"147,986",$37.02M,PG-13,"
+Crime, Drama, Mystery            ",60000000,37017955,88832210,State of Play 2009
+S.W.A.T.,2003,117 min,6.0,45        ,"143,099",$116.93M,PG-13,"
+Action, Adventure, Crime            ",70000000,116877597,207154748,S.W.A.T. 2003
+The Last Witch Hunter,2015,106 min,6.0,34        ,"100,004",$27.37M,PG-13,"
+Action, Adventure, Fantasy            ",80000000,27367660,130818912,The Last Witch Hunter 2015
+Toy Story 2,1999,92 min,7.9,88        ,"549,666",$245.85M,G,"
+Animation, Adventure, Comedy            ",90000000,245852179,511358276,Toy Story 2 1999
+Ben-Hur,1959,212 min,8.1,90        ,"229,113",$74.70M,G,"
+Adventure, Drama, History            ",95000000,26410477,91669648,Ben-Hur 1959
+Ocean's Thirteen,2007,122 min,6.9,62        ,"332,947",$117.15M,PG-13,"
+Crime, Thriller            ",85000000,117144465,311744465,Ocean's Thirteen 2007
+Cold Pursuit,2019,119 min,6.2,57        ,"62,918",$32.14M,R,"
+Action, Comedy, Crime            ",60000000,32138862,62599159,Cold Pursuit 2019
+Lilo & Stitch,2002,92 min,7.3,73        ,"177,867",$145.79M,PG,"
+Animation, Adventure, Comedy            ",80000000,145771527,245800000,Lilo & Stitch 2002
+The Bourne Legacy,2012,135 min,6.6,61        ,"292,716",$113.20M,PG-13,"
+Action, Adventure, Thriller            ",125000000,113203870,280355920,The Bourne Legacy 2012
+Dawn of the Planet of the Apes,2014,130 min,7.6,79        ,"423,761",$208.55M,PG-13,"
+Action, Adventure, Drama            ",170000000,208545589,710644566,Dawn of the Planet of the Apes 2014
+2 Guns,2013,109 min,6.7,55        ,"204,309",$75.61M,R,"
+Action, Comedy, Crime            ",61000000,75612460,132493015,2 Guns 2013
+The Prince of Egypt,1998,99 min,7.1,64        ,"124,842",$101.22M,PG,"
+Animation, Adventure, Drama            ",60000000,101413188,218613188,The Prince of Egypt 1998
+The Expendables 2,2012,103 min,6.6,51        ,"299,414",$85.02M,R,"
+Action, Adventure, Thriller            ",100000000,85028192,311979256,The Expendables 2 2012
+The Tourist,2010,103 min,6.0,37        ,"233,113",$67.63M,PG-13,"
+Action, Thriller            ",100000000,67631157,278731369,The Tourist  2010
+Terminator Salvation,2009,115 min,6.5,49        ,"351,606",$125.32M,PG-13,"
+Action, Sci-Fi            ",200000000,125322469,365491792,Terminator Salvation 2009
+Valkyrie,2008,121 min,7.1,56        ,"235,238",$83.08M,PG-13,"
+Drama, History, Thriller            ",90000000,83107829,203932174,Valkyrie 2008
+Wolf,1994,125 min,6.2,-,"54,669",$65.01M,R,"
+Drama, Horror, Romance            ",70000000,65011757,131011757,Wolf 1994
+The Spiderwick Chronicles,2008,96 min,6.5,62        ,"92,182",$71.20M,PG,"
+Action, Adventure, Drama            ",92500000,71195053,162839667,The Spiderwick Chronicles 2008
+Night at the Museum: Secret of the Tomb,2014,98 min,6.2,47        ,"113,951",$113.75M,PG,"
+Adventure, Comedy, Family            ",127000000,113746621,353756621,Night at the Museum: Secret of the Tomb 2014
+Treasure Planet,2002,95 min,7.2,60        ,"110,022",$38.18M,PG,"
+Animation, Adventure, Family            ",100000000,38120554,91800000,Treasure Planet 2002
+Shrek Forever After,2010,93 min,6.3,58        ,"193,811",$238.37M,PG,"
+Animation, Adventure, Comedy            ",165000000,238736787,756244673,Shrek Forever After 2010
+The Brothers Grimm,2005,118 min,5.9,51        ,"118,681",$37.92M,PG-13,"
+Action, Adventure, Comedy            ",80000000,37899638,105299638,The Brothers Grimm 2005
+Olympus Has Fallen,2013,119 min,6.5,41        ,"266,387",$98.93M,R,"
+Action, Thriller            ",70000000,98927592,172878928,Olympus Has Fallen 2013
+The Lego Batman Movie,2017,104 min,7.3,75        ,"138,549",$175.75M,PG,"
+Animation, Action, Adventure            ",80000000,175750384,310570560,The Lego Batman Movie 2017
+Rock of Ages,2012,123 min,5.9,47        ,"75,924",$38.52M,PG-13,"
+Comedy, Drama, Musical            ",70000000,38518613,61031932,Rock of Ages 2012
+Timeline,2003,116 min,5.7,28        ,"61,965",$19.48M,PG-13,"
+Action, Adventure, Sci-Fi            ",80000000,19480739,26703184,Timeline 2003
+Salt,2010,100 min,6.4,65        ,"304,760",$118.31M,PG-13,"
+Action, Thriller            ",130000000,118311368,290650494,Salt 2010
+Star Trek: Nemesis,2002,116 min,6.4,51        ,"76,728",$43.25M,PG-13,"
+Action, Adventure, Sci-Fi            ",60000000,43254409,67312826,Star Trek: Nemesis 2002
+Maze Runner: The Scorch Trials,2015,131 min,6.3,43        ,"234,886",$81.70M,PG-13,"
+Action, Adventure, Sci-Fi            ",61000000,81697192,310566162,Maze Runner: The Scorch Trials 2015
+The Good Shepherd,2006,167 min,6.7,61        ,"100,946",$59.95M,R,"
+Drama, History, Thriller            ",80000000,59908565,100378271,The Good Shepherd 2006
+Home,2015,94 min,6.6,55        ,"97,440",$177.40M,PG,"
+Animation, Adventure, Comedy            ",130000000,177397510,385997896,Home  2015
+Cloudy with a Chance of Meatballs,2009,90 min,6.9,66        ,"216,935",$124.87M,PG,"
+Animation, Adventure, Comedy            ",100000000,124870275,236827677,Cloudy with a Chance of Meatballs 2009
+We Were Soldiers,2002,138 min,7.2,65        ,"135,569",$78.12M,R,"
+Action, Drama, History            ",70000000,78120196,114658262,We Were Soldiers 2002
+Dreamcatcher,2003,134 min,5.5,35        ,"90,766",$33.72M,R,"
+Drama, Horror, Sci-Fi            ",68000000,33685268,75685268,Dreamcatcher 2003
+Tarzan,1999,88 min,7.3,79        ,"213,342",$171.09M,G,"
+Animation, Adventure, Drama            ",145000000,171091819,448191819,Tarzan 1999
+The Chronicles of Narnia: Prince Caspian,2008,150 min,6.5,62        ,"201,805",$141.62M,PG,"
+Action, Adventure, Family            ",225000000,141621490,417341288,The Chronicles of Narnia: Prince Caspian 2008
+Finding Dory,2016,97 min,7.3,77        ,"255,541",$486.30M,PG,"
+Animation, Adventure, Comedy            ",200000000,486295561,1025006125,Finding Dory 2016
+White House Down,2013,131 min,6.3,52        ,"213,709",$73.10M,PG-13,"
+Action, Drama, Thriller            ",150000000,73103784,205440387,White House Down 2013
+The Time Machine,2002,96 min,6.0,42        ,"121,826",$56.68M,PG-13,"
+Action, Adventure, Sci-Fi            ",80000000,56684819,98983590,The Time Machine 2002
+Alice Through the Looking Glass,2016,113 min,6.2,34        ,"100,436",$77.04M,PG,"
+Adventure, Family, Fantasy            ",170000000,77042381,276928112,Alice Through the Looking Glass 2016
+R.I.P.D.,2013,96 min,5.6,25        ,"124,868",$33.62M,PG-13,"
+Action, Adventure, Comedy            ",130000000,33618855,79076678,R.I.P.D. 2013
+The Hunchback of Notre Dame,1996,91 min,7.0,74        ,"148,867",$100.14M,G,"
+Animation, Drama, Family            ",100000000,100138851,325500000,The Hunchback of Notre Dame 1996
+Enemy at the Gates,2001,131 min,7.6,53        ,"252,021",$51.40M,R,"
+Drama, History, War            ",85000000,51396781,96971293,Enemy at the Gates 2001
+Bad Boys II,2003,147 min,6.6,38        ,"240,415",$138.61M,R,"
+Action, Comedy, Crime            ",130000000,138540870,273271982,Bad Boys II 2003
+The Bourne Ultimatum,2007,115 min,8.0,85        ,"617,331",$227.47M,PG-13,"
+Action, Adventure, Mystery            ",130000000,227471070,444043396,The Bourne Ultimatum 2007
+Escape Plan,2013,115 min,6.7,49        ,"235,357",$25.13M,R,"
+Action, Thriller            ",70000000,25135965,103735965,Escape Plan 2013
+The Insider,1999,157 min,7.8,84        ,"166,344",$28.97M,R,"
+Biography, Drama, Thriller            ",68000000,28965197,60265197,The Insider 1999
+What Lies Beneath,2000,130 min,6.6,51        ,"121,868",$155.46M,PG-13,"
+Drama, Horror, Mystery            ",90000000,155464351,288693989,What Lies Beneath 2000
+How to Train Your Dragon: The Hidden World,2019,104 min,7.5,71        ,"115,483",$160.80M,PG,"
+Animation, Action, Adventure            ",129000000,160799505,522747474,How to Train Your Dragon: The Hidden World 2019
+Year One,2009,97 min,4.9,34        ,"95,446",$43.34M,PG-13,"
+Comedy            ",60000000,43337279,57604723,Year One 2009
+The Lone Ranger,2013,150 min,6.4,37        ,"227,640",$89.30M,PG-13,"
+Action, Adventure, Western            ",225000000,89302115,260002115,The Lone Ranger 2013
+Speed Racer,2008,135 min,6.0,37        ,"71,302",$43.95M,PG,"
+Action, Adventure, Comedy            ",120000000,43945766,93394462,Speed Racer 2008
+Dinner for Schmucks,2010,114 min,5.9,56        ,"104,055",$73.03M,PG-13,"
+Comedy            ",69000000,73026337,86796502,Dinner for Schmucks 2010
+The 13th Warrior,1999,102 min,6.6,42        ,"120,563",$32.70M,R,"
+Action, Adventure, History            ",125000000,32698899,61698899,The 13th Warrior 1999
+Stuart Little,1999,84 min,5.9,61        ,"130,072",$140.04M,PG,"
+Adventure, Comedy, Family            ",105000000,140015224,298815224,Stuart Little 1999
+Exorcist: The Beginning,2004,114 min,5.1,30        ,"36,050",$41.82M,R,"
+Horror, Mystery, Thriller            ",78000000,41814863,43957541,Exorcist: The Beginning 2004
+The BFG,2016,117 min,6.4,66        ,"81,819",$55.48M,PG,"
+Adventure, Family, Fantasy            ",140000000,55483770,199646680,The BFG 2016
+Click,2006,107 min,6.4,45        ,"317,061",$137.36M,PG-13,"
+Comedy, Drama, Fantasy            ",82500000,137355633,237685089,Click 2006
+The Saint,1997,116 min,6.2,50        ,"65,805",$61.36M,PG-13,"
+Action, Adventure, Romance            ",90000000,61363304,169400000,The Saint 1997
+The Divergent Series: Insurgent,2015,119 min,6.2,42        ,"226,854",$130.18M,PG-13,"
+Action, Adventure, Sci-Fi            ",110000000,130179072,295075882,The Divergent Series: Insurgent 2015
+The Spirit,2008,103 min,4.8,30        ,"60,537",$19.78M,PG-13,"
+Action, Crime, Fantasy            ",60000000,19806188,39006188,The Spirit 2008
+The Bourne Supremacy,2004,108 min,7.7,73        ,"447,243",$176.24M,PG-13,"
+Action, Mystery, Thriller            ",85000000,176087450,311001124,The Bourne Supremacy 2004
+Doom,2005,105 min,5.2,34        ,"110,995",$28.21M,R,"
+Action, Horror, Sci-Fi            ",70000000,28212337,58757178,Doom 2005
+Ted 2,2015,115 min,6.3,48        ,"195,401",$81.48M,R,"
+Comedy            ",68000000,81476385,217214143,Ted 2 2015
+Pan,2015,111 min,5.7,36        ,"62,426",$35.09M,PG,"
+Adventure, Comedy, Family            ",150000000,35088320,151525973,Pan 2015
+Swordfish,2001,99 min,6.5,32        ,"181,961",$69.77M,R,"
+Action, Crime, Thriller            ",80000000,69772969,147080413,Swordfish 2001
+Cinderella Man,2005,144 min,8.0,69        ,"181,766",$61.65M,PG-13,"
+Biography, Drama, History            ",88000000,61649911,105021488,Cinderella Man 2005
+Despicable Me 3,2017,89 min,6.3,49        ,"122,706",$264.62M,PG,"
+Animation, Adventure, Comedy            ",75000000,264624300,1032596894,Despicable Me 3 2017
+Rush Hour 3,2007,91 min,6.2,44        ,"160,112",$140.13M,PG-13,"
+Action, Comedy, Crime            ",180000000,140125968,256585882,Rush Hour 3 2007
+Judge Dredd,1995,96 min,5.6,-,"114,447",$34.69M,R,"
+Action, Crime, Sci-Fi            ",85000000,34687912,113487912,Judge Dredd 1995
+Trolls,2016,92 min,6.5,55        ,"76,493",$153.71M,PG,"
+Animation, Adventure, Comedy            ",125000000,153707064,343242613,Trolls 2016
+Get Smart,2008,110 min,6.5,54        ,"210,713",$130.32M,PG-13,"
+Action, Adventure, Comedy            ",80000000,130319208,226739416,Get Smart 2008
+The Long Kiss Goodnight,1996,121 min,6.8,44        ,"76,731",$33.33M,R,"
+Action, Crime, Drama            ",65000000,33447612,33447612,The Long Kiss Goodnight 1996
+The Postman,1997,177 min,6.1,29        ,"71,410",$17.63M,R,"
+Action, Adventure, Drama            ",80000000,17650704,20841123,The Postman 1997
+Dumbo,2019,112 min,6.3,51        ,"71,013",$114.77M,PG,"
+Adventure, Family, Fantasy            ",170000000,114766307,353166307,Dumbo 2019
+World Trade Center,2006,129 min,5.9,66        ,"81,883",$70.28M,PG-13,"
+Drama, History, Thriller            ",65000000,70278893,163295654,World Trade Center 2006
+Seventh Son,2014,102 min,5.5,30        ,"74,578",$17.22M,PG-13,"
+Action, Adventure, Fantasy            ",95000000,17725785,108874967,Seventh Son  2014
+Evan Almighty,2007,96 min,5.4,37        ,"143,358",$100.46M,PG,"
+Comedy, Family, Fantasy            ",175000000,100289690,174131329,Evan Almighty 2007
+Entrapment,1999,113 min,6.3,54        ,"111,773",$87.70M,PG-13,"
+Action, Crime, Romance            ",66000000,87707396,211700000,Entrapment 1999
+Air Force One,1997,124 min,6.5,61        ,"188,192",$172.96M,R,"
+Action, Drama, Thriller            ",85000000,172956409,315268353,Air Force One 1997
+After Earth,2013,100 min,4.8,33        ,"196,541",$60.52M,PG-13,"
+Action, Adventure, Sci-Fi            ",130000000,60522097,251499665,After Earth 2013
+Night at the Museum: Battle of the Smithsonian,2009,105 min,6.0,42        ,"185,931",$177.24M,PG,"
+Adventure, Comedy, Family            ",150000000,177243721,402231063,Night at the Museum: Battle of the Smithsonian 2009
+Due Date,2010,95 min,6.5,51        ,"333,109",$100.54M,R,"
+Comedy, Drama            ",65000000,100539043,211739043,Due Date 2010
+The Cat in the Hat,2003,82 min,4.0,19        ,"79,938",$101.15M,PG,"
+Adventure, Comedy, Family            ",109000000,101018283,133818283,The Cat in the Hat 2003
+Space Cowboys,2000,130 min,6.5,73        ,"78,342",$90.46M,PG-13,"
+Action, Adventure, Thriller            ",65000000,90454043,128874043,Space Cowboys 2000
+Pixels,2015,105 min,5.5,27        ,"137,437",$78.75M,PG-13,"
+Animation, Action, Comedy            ",90000000,78765986,244041804,Pixels 2015
+Stealth,2005,121 min,5.1,35        ,"53,044",$32.12M,PG-13,"
+Action, Adventure, Sci-Fi            ",138000000,32116746,76416746,Stealth 2005
+Kung Fu Panda 3,2016,95 min,7.1,66        ,"144,910",$143.53M,PG,"
+Animation, Action, Adventure            ",140000000,143528619,521170825,Kung Fu Panda 3 2016
+Percy Jackson: Sea of Monsters,2013,106 min,5.8,39        ,"114,168",$68.56M,PG,"
+Adventure, Family, Fantasy            ",90000000,68559554,200859554,Percy Jackson: Sea of Monsters 2013
+The Jackal,1997,124 min,6.4,36        ,"112,642",$54.93M,R,"
+Action, Crime, Drama            ",60000000,54956941,159356941,The Jackal 1997
+The Wolfman,2010,103 min,5.8,43        ,"104,927",$61.98M,R,"
+Drama, Fantasy, Horror            ",150000000,62189884,142634358,The Wolfman 2010
+The Great Wall,2016,103 min,5.9,42        ,"129,749",$45.54M,PG-13,"
+Action, Adventure, Fantasy            ",150000000,45157105,334486852,The Great Wall  2016
+War Horse,2011,146 min,7.2,72        ,"152,237",$79.88M,PG-13,"
+Action, Adventure, Drama            ",70000000,79883359,156815529,War Horse 2011
+Artemis Fowl,2020,95 min,4.2,31        ,"25,963",-,PG,"
+Adventure, Family, Fantasy            ",100000000,0,0,Artemis Fowl 2020
+Ferdinand,2017,108 min,6.7,58        ,"52,918",$84.41M,PG,"
+Animation, Adventure, Comedy            ",111000000,84410380,289838913,Ferdinand 2017
+Any Given Sunday,1999,162 min,6.9,52        ,"115,723",$75.53M,R,"
+Drama, Sport            ",60000000,75530832,100230832,Any Given Sunday 1999
+The Secret Life of Pets 2,2019,86 min,6.5,55        ,"56,841",$158.87M,PG,"
+Animation, Adventure, Comedy            ",80000000,158874395,446275938,The Secret Life of Pets 2 2019
+Eragon,2006,104 min,5.1,38        ,"124,298",$75.03M,PG,"
+Action, Adventure, Family            ",100000000,75030163,249488115,Eragon 2006
+Volcano,1997,104 min,5.5,55        ,"74,561",$49.32M,PG-13,"
+Action, Drama, Sci-Fi            ",90000000,47546796,120100000,Volcano 1997
+Poseidon,2006,98 min,5.7,50        ,"101,719",$60.67M,PG-13,"
+Action, Adventure, Thriller            ",160000000,60674817,181674817,Poseidon 2006
+Invictus,2009,134 min,7.3,74        ,"154,954",$37.49M,PG-13,"
+Biography, Drama, History            ",60000000,37491364,124514011,Invictus 2009
+The Polar Express,2004,100 min,6.6,61        ,"188,004",$183.37M,G,"
+Animation, Adventure, Comedy            ",170000000,188578855,312719437,The Polar Express 2004
+The Good Dinosaur,2015,93 min,6.7,66        ,"108,423",$123.09M,PG,"
+Animation, Adventure, Comedy            ",187500000,123087120,333771037,The Good Dinosaur 2015
+Starsky & Hutch,2004,101 min,6.1,55        ,"143,077",$88.24M,PG-13,"
+Comedy, Crime            ",60000000,88200225,170200225,Starsky & Hutch 2004
+Flight of the Phoenix,2004,113 min,6.1,47        ,"53,251",$21.01M,PG-13,"
+Action, Adventure, Drama            ",75000000,21009180,34009180,Flight of the Phoenix 2004
+Eat Pray Love,2010,133 min,5.8,50        ,"93,259",$80.57M,PG-13,"
+Biography, Drama, Romance            ",60000000,80574010,206598789,Eat Pray Love 2010
+Reign of Fire,2002,101 min,6.2,39        ,"131,393",$43.06M,PG-13,"
+Action, Adventure, Fantasy            ",60000000,43061982,82150183,Reign of Fire 2002
+Dinosaur,2000,82 min,6.5,56        ,"56,996",$137.75M,PG,"
+Animation, Adventure, Drama            ",127500000,137748063,356148063,Dinosaur 2000
+Ice Age: Collision Course,2016,94 min,5.7,34        ,"61,247",$64.06M,PG,"
+Animation, Adventure, Comedy            ",105000000,64063008,402156682,Ice Age: Collision Course 2016
+Wrath of the Titans,2012,99 min,5.7,37        ,"185,494",$83.67M,PG-13,"
+Action, Adventure, Fantasy            ",150000000,83670083,305270083,Wrath of the Titans 2012
+Where the Wild Things Are,2009,101 min,6.7,71        ,"102,926",$77.23M,PG,"
+Adventure, Drama, Family            ",100000000,77233467,99123656,Where the Wild Things Are 2009
+Priest,2011,87 min,5.7,41        ,"117,946",$29.14M,PG-13,"
+Action, Adventure, Fantasy            ",60000000,29136626,84154026,Priest 2011
+Happy Feet,2006,108 min,6.4,77        ,"177,181",$198.00M,PG,"
+Animation, Adventure, Comedy            ",85000000,198000317,385000317,Happy Feet 2006
+Monsters vs. Aliens,2009,94 min,6.4,56        ,"154,047",$198.35M,PG,"
+Animation, Action, Adventure            ",175000000,198351526,381687380,Monsters vs. Aliens 2009
+The Family Man,2000,125 min,6.8,42        ,"106,633",$75.79M,PG-13,"
+Comedy, Drama, Fantasy            ",60000000,75764085,124715863,The Family Man 2000
+Daddy Day Care,2003,92 min,5.6,39        ,"66,311",$104.30M,PG,"
+Comedy, Family            ",60000000,104148781,164285587,Daddy Day Care 2003
+Alvin and the Chipmunks: The Road Chip,2015,92 min,5.0,33        ,"18,359",$85.89M,PG,"
+Animation, Adventure, Comedy            ",90000000,85886987,249517956,Alvin and the Chipmunks: The Road Chip 2015
+Death Race,2008,105 min,6.3,43        ,"203,576",$36.32M,R,"
+Action, Sci-Fi, Thriller            ",65000000,36316032,72516819,Death Race 2008
+The Guardian,2006,139 min,6.9,53        ,"90,076",$55.01M,PG-13,"
+Action, Adventure, Drama            ",70000000,55011732,94973540,The Guardian  2006
+Spies in Disguise,2019,102 min,6.8,54        ,"42,747",-,PG,"
+Animation, Action, Adventure            ",100000000,66757013,165138481,Spies in Disguise 2019
+The Croods,2013,98 min,7.2,55        ,"202,758",$187.17M,PG,"
+Animation, Adventure, Comedy            ",135000000,187168425,573068425,The Croods 2013
+Charlie's Angels: Full Throttle,2003,106 min,4.9,48        ,"125,141",$100.83M,PG-13,"
+Action, Adventure, Comedy            ",120000000,100814328,227163273,Charlie's Angels: Full Throttle 2003
+The Kingdom,2007,110 min,7.0,56        ,"123,127",$47.54M,R,"
+Action, Drama, Thriller            ",72500000,47467250,86802457,The Kingdom 2007
+End of Days,1999,122 min,5.8,33        ,"108,100",$66.89M,R,"
+Action, Fantasy, Horror            ",100000000,66889043,212026975,End of Days 1999
+The Sorcerer's Apprentice,2010,109 min,6.1,46        ,"157,508",$63.15M,PG,"
+Action, Adventure, Family            ",160000000,63150991,217986320,The Sorcerer's Apprentice 2010
+Jack Ryan: Shadow Recruit,2014,105 min,6.2,57        ,"127,664",$50.58M,PG-13,"
+Action, Drama, Thriller            ",60000000,50577412,131377412,Jack Ryan: Shadow Recruit 2014
+How to Train Your Dragon 2,2014,102 min,7.8,76        ,"317,739",$177.00M,PG,"
+Animation, Action, Adventure            ",145000000,177002924,614586270,How to Train Your Dragon 2 2014
+London Has Fallen,2016,99 min,5.9,28        ,"151,714",$62.68M,R,"
+Action, Thriller            ",60000000,62524260,195194085,London Has Fallen 2016
+Wild Hogs,2007,100 min,5.8,27        ,"116,344",$168.27M,PG-13,"
+Action, Adventure, Comedy            ",60000000,168213584,253555383,Wild Hogs 2007
+Bolt,2008,96 min,6.8,67        ,"199,254",$114.05M,PG,"
+Animation, Adventure, Comedy            ",150000000,114053579,328015029,Bolt 2008
+The Legend of Bagger Vance,2000,126 min,6.7,47        ,"55,439",$30.70M,PG-13,"
+Drama, Fantasy, Sport            ",60000000,30695227,39235486,The Legend of Bagger Vance 2000
+Jack the Giant Slayer,2013,114 min,6.2,51        ,"134,950",$65.19M,PG-13,"
+Animation, Adventure, Fantasy            ",195000000,65187603,197687603,Jack the Giant Slayer 2013
+Little Nicky,2000,90 min,5.3,38        ,"101,986",$39.46M,PG-13,"
+Comedy, Fantasy            ",80000000,39442871,58270391,Little Nicky 2000
+The Black Dahlia,2006,121 min,5.6,49        ,"72,931",$22.52M,R,"
+Crime, Drama, Mystery            ",60000000,22672813,49238525,The Black Dahlia 2006
+The American President,1995,114 min,6.8,67        ,"55,340",$65.00M,PG-13,"
+Comedy, Drama, Romance            ",62000000,60022813,107822813,The American President 1995
+The Last Castle,2001,131 min,7.0,43        ,"76,718",$18.21M,R,"
+Action, Drama, Thriller            ",60000000,18208078,20541668,The Last Castle 2001
+Kung Fu Panda 2,2011,90 min,7.2,67        ,"266,609",$165.25M,PG,"
+Animation, Action, Adventure            ",150000000,165249063,664837547,Kung Fu Panda 2 2011
+A Wrinkle in Time,2018,109 min,4.2,53        ,"43,249",$100.48M,PG,"
+Adventure, Family, Fantasy            ",103000000,100478608,133214549,A Wrinkle in Time 2018
+Surrogates,2009,89 min,6.3,45        ,"172,070",$38.58M,PG-13,"
+Action, Sci-Fi, Thriller            ",80000000,38577772,119668350,Surrogates 2009
+Over the Hedge,2006,83 min,6.7,67        ,"166,838",$155.02M,PG,"
+Animation, Adventure, Comedy            ",80000000,155019340,343397247,Over the Hedge 2006
+The Manchurian Candidate,2004,129 min,6.6,76        ,"108,089",$65.96M,R,"
+Drama, Mystery, Sci-Fi            ",80000000,65948711,96135872,The Manchurian Candidate 2004
