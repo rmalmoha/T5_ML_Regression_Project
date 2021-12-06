@@ -8,5 +8,5 @@ This is the second project during the data science T5 bootcamp. The goal of this
   <img src = "https://contrib.rocks/image?repo = LeenaAAlqasem/repository_name"/>
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contributors-img](https://github.com/LeenaAAlQasem).
 view raw
