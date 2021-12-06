@@ -5,5 +5,5 @@ This is the second project during the data science T5 bootcamp. The goal of this
 
 This project is done by:
 
-## [Leena AlQasem](https://github.com/LeenaAAlQasem).
-## [Randa Almohammadi](https://github.com/rmalmoha).
+#### [Leena AlQasem](https://github.com/LeenaAAlQasem).
+#### [Randa Almohammadi](https://github.com/rmalmoha).
